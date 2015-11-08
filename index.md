@@ -1,6 +1,6 @@
 
 
-I am an Associate Professor in the Faculty of Business and Economics at the University of Winnipeg.  I do [other things as well](https://dtduval.github.io/research.html).
+I am an Associate Professor in the Faculty of Business and Economics at the University of Winnipeg.  I do [other things as well](https://dtduval.github.io/about.html).
 
 ###Teaching
 
@@ -10,7 +10,7 @@ BUS 1201–003 (Introduction to Business) - Tuesdays, Thursdays @ 10:00 | [Cours
 
 WINTER 2016
 
-BUS 4220–002 (International Business) - Tuesdays, Thursdays @ 14:30 | [Draft Course Outline](https://dtduval.github.io/BUS4220.html)        
+BUS 4220–002 (International Business) - Tuesdays, Thursdays @ 14:30 | [Draft Course Outline](https://dtduval.github.io/4220.html)        
           
 
 
