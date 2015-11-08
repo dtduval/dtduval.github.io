@@ -17,7 +17,7 @@ At the moment, I am running office hours on Tuesdays and Thursdays from 11:15 to
 
 I do work (both academic and consultative) in the legal and economic regulation of international commercial air transport.
 
-![Alt text](http://www.ashgate.com/images/9781409454069.jpg)  
+![Alt text](http://www.ashgate.com/images/9781409454069.jpg) ![Alt text](http://dtduval.githib.io/images/Koo-Tan-Duval.jpg)  
 
 <br>
 ### Business advising and consulting
