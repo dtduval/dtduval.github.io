@@ -20,15 +20,9 @@ I undertake academic research into various aspects of commercial air transport l
 My full CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).
 <br>
 
-### Business advising and consulting
+### SME advising and consulting
 
-When possible, I enjoy undertaking consultancy projects that help clients solve unique and challenging questions.  I work in the following areas:
-
-* Commercial aviation: strategic planning, marketing, government policy analysis.
-* Business and marketing strategy formulation for SMEs, including market research/assessment.
-* Tourism management (marketing, branding and positioning, political/administrative governance).
-
-I was previously a Rostered Consultant with the Business Development Bank of Canada.
+If you are a small to medium-sized company looking to establish or critically evaluate your business and/or marketing strategies, [I can help](mailto:david@dtduval.com).  
 
 
 
