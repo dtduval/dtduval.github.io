@@ -1,6 +1,6 @@
 
 
-I am an Associate Professor in the Faculty of Business and Economics at the [University of Winnipeg](http://www.uwinnipeg.ca) and Director of the [University of Manitoba Transport Institute](http://www.umti.ca).  For an extended bio, [click here](https://dtduval.github.io/about.html).
+I am an Associate Professor in the Faculty of Business and Economics at the [University of Winnipeg](http://www.uwinnipeg.ca) and Director of the [University of Manitoba Transport Institute](http://www.umti.ca).  I do, and have done, [other things as well](https://dtduval.github.io/about.html).
 
 ###Teaching     
 
@@ -13,9 +13,7 @@ At the moment, I am running office hours on Tuesdays and Thursdays from 11:15 to
 
 ### Research
 
-I undertake academic research into various aspects of commercial air transport law, economics and policy and consult with national governments on commercial air transport policy.     
-
-My full CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).
+I undertake academic research into various aspects of commercial air transport law and economics and consult to national governments on related policy issues.  A detailed CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).
 
 ### SME advising and consulting
 
