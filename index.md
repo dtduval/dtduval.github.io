@@ -9,7 +9,7 @@ I am an Associate Professor in the Faculty of Business and Economics at the [Uni
 
 *Winter Semester 2016*: BUS 4220–002 (International Business) - Tuesdays, Thursdays @ 14:30 | [Draft Course Outline](https://dtduval.github.io/4220.html)          
           
-At the moment, I am running office hours on Tuesdays and Thursdays from 11:15 to 12:00.  You can [book an appointment here](https://gewhtttyjc.youcanbook.me/).
+At the moment, student consultation times are offered on Tuesdays and Thursdays from 11:15 to 12:00.  It is advisable to [book an appointment](https://gewhtttyjc.youcanbook.me/).
 
 ### Research
 
@@ -17,8 +17,4 @@ I undertake academic research into various aspects of commercial air transport l
 
 ### SME advising and consulting
 
-If you are a small to medium-sized company looking to establish or critically evaluate your business and/or marketing strategies, [I can help](mailto:david@dtduval.com).  
-
-
-
-
+If you are a small to medium-sized company looking to develop or critically evaluate your business and/or marketing strategies, there is a good chance I can help.  [Let's chat](mailto:david@dtduval.com).
