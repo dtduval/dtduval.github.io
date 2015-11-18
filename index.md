@@ -17,4 +17,4 @@ I undertake academic research into various aspects of commercial air transport l
 
 ### SME advising and consulting
 
-If you are a small to medium-sized company looking to develop or critically evaluate your business and/or marketing strategies, there is a good chance I can help.  [Let's chat](mailto:david@dtduval.com).
+If you are a small to medium-sized company looking to develop or critically evaluate your business and/or marketing strategy, there is a good chance I can help.  [Let's chat](mailto:david@dtduval.com).
