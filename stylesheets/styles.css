@@ -59,7 +59,7 @@ body {
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:400;
+  font-weight:500;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -108,7 +108,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:900px;
+  width:940px;
   margin:0 auto;
 }
 
@@ -224,7 +224,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
