@@ -4,15 +4,12 @@ I am an Associate Professor in the Faculty of Business and Economics at the [Uni
 
 ###Teaching     
 
-*Winter Semester 2016*: BUS 4220-002 (International Business) - Tuesdays, Thursdays @ 14:30 in 4BC57 | [Course Outline](BUS-4220-outline.html)      
+*Winter Semester 2016*: BUS 4220-002 (International Business) - Tuesdays, Thursdays @ 14:30 in 4BC57      
 
-*Autumn Semester 2015*: BUS 1201-003 (Introduction to Business) - Tuesdays, Thursdays @ 10:00 | Final grades have posted to WebAdvisor, or are available via email          
-    
+            
 ### Research
 
-I undertake academic research into various aspects of commercial air transport law and economics and consult to national governments on related policy issues.     
-
-A detailed CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).
+I undertake academic research within various aspects of commercial air transport law and economics and consult to national governments on related policy issues.  A detailed CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).     
 
 ### SME advising and consulting
 
