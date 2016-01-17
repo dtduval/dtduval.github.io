@@ -1,0 +1,723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				"Primary Quick Build"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 55.0,
+		"last_filter": "update",
+		"selected_items":
+		[
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"latex",
+				"LaTeXing: Changelog"
+			],
+			[
+				"pacak",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packag",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"em",
+				"Set Syntax: Markdown"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package control sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package contr",
+				"Package Control: Remove Package"
+			],
+			[
+				"package settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"nmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Read",
+				"ReadmePlease"
+			],
+			[
+				"packac",
+				"Package Control: List Packages"
+			],
+			[
+				"arked",
+				"Marked"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"PACKA",
+				"Package Control: List Packages"
+			],
+			[
+				"reges",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"nark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"paka",
+				"Package Control: List Packages"
+			],
+			[
+				"pandoc",
+				"Pandoc: Render Markdown DocX"
+			],
+			[
+				"pado",
+				"Pandoc: Render Markdown to HTML"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"pacaka",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: bf",
+				"Snippet: Boldface text"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io"
+	],
+	"file_history":
+	[
+		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/index.md",
+		"/Users/davidduval/Dropbox/Main/Teaching - courses/BUS-4220-International-Business/BUS-4220-lecture-notes/Module-4/4220-4-notes.md",
+		"/Users/davidduval/Dropbox/Main/Teaching - courses/BUS-4220-International-Business/BUS-4220-lecture-notes/Module-2/4220-2-notes.md",
+		"/Users/davidduval/Dropbox/Main/Teaching - courses/BUS-4220-International-Business/BUS-4220-lecture-notes/Module-3/4220-3-notes.md",
+		"/Users/davidduval/Documents/MAIN/Work/Referee Reports/Journal of destination marketing and management/JDMM - December 2015/DUVAL-review.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Referee Reports/Journal of Sport and Tourism/Jounal of Sport and Tourism - December 2015/DUVAL-review.txt",
+		"/Users/davidduval/Dropbox/Main/Teaching - courses/BUS-4220-International-Business/BUS-4220-lecture-notes/BUS-4220-Course-outline.md",
+		"/Users/davidduval/Documents/MAIN/Work/Current/Chapters/(2016) Mass tourism (Harrison and Sharpley)/Duval-mass-tourism-chapter.md",
+		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/index.html",
+		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/about.md",
+		"/Users/davidduval/Documents/MAIN/Work/Current/Chapters/(2016) Mass tourism (Harrison and Sharpley)/NOTES.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Current/Chapters/(2016) Mass tourism (Harrison and Sharpley)/REFERENCES.md",
+		"/Users/davidduval/Documents/MAIN/Work/Current/Chapters/(2016) Mass tourism (Harrison and Sharpley)/MT-chapter-Harrison-Sharpley.sublime-project",
+		"/Users/davidduval/Dropbox/Main/Administration/CV/CV-LaTeX-version/DuvalCV.tex",
+		"/Users/davidduval/Documents/MAIN/Work/Thesis Examination (external)/(2015) June Lee/Report/Duval-report-Lee-NUS-October-2015.tex",
+		"/Users/davidduval/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/davidduval/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davidduval/Dropbox/Main/Teaching - courses/BUS-4220-International-Business/BUS-4220-lecture-notes/BUS-4220-resources.md",
+		"/Users/davidduval/Dropbox/Main/Teaching - courses/BUS-4220-International-Business/BUS-4220-lecture-notes/BUS-4220-notes.md",
+		"/Users/davidduval/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/cobalt2.tmTheme",
+		"/usr/local/bin/b2",
+		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/4220.html",
+		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/stylesheets/styles.css",
+		"/Users/davidduval/Documents/MAIN/Work/Thesis Examination (external)/(2014) Griffith/Report/Duval-examiner-report-Tang-Griffith-September-2014.tex",
+		"/Users/davidduval/Library/Cookies/Cookies.binarycookies",
+		"/Users/davidduval/Library/Containers/com.apple.SocialPushAgent/Data/Library/Cookies/Cookies.binarycookies",
+		"/Users/davidduval/Library/Cookies/com.apple.Safari.SafeBrowsing.binarycookies",
+		"/Users/davidduval/Library/Safari/History.db",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/2014 2015/Minutes/2015/27 May 2015/27 May 2015 - minutes - OEPAC.txt",
+		"/Users/davidduval/Library/Application Support/TextMate/Global.tmProperties",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/2014 2015/Minutes/2015/27 May 2015/Minutes template.txt",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/2014 2015/Minutes/Minutes template.txt",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/2014 2015/Minutes/2015/29 April 2015/minutes.txt",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/Donation request for teacher appreciation/Letter to Tim's/OE-PC-Tims.tex",
+		"/Users/davidduval/Documents/MAIN/Administration/Annual-Activity-Reports/YE-August-2015/LATEX/Duval-2015-annual-activity-report.tex",
+		"/Users/davidduval/Documents/MAIN/Conferences and travel/2015/WAA Board reteat/notes-WAA-retreat.txt",
+		"/Users/davidduval/Downloads/Tone loc remix/Mix4/mix details.txt",
+		"/Users/davidduval/Dropbox/UMTI-General/Admin/2014 5 year review/April 2015 Addendum/UMTI-review-addendum-May-2015.tex",
+		"/Users/davidduval/Dropbox/UMTI-General/Admin/2014 5 year review/April 2015 Addendum/UMTI-review-addendum-April-2015.tex",
+		"/Users/davidduval/Documents/MAIN/Conferences and travel/2015/WAA Board reteat/Document delivery (UMan) requests.txt",
+		"/Volumes/Personal/Taxes/Canada taxes/2013/Notes 2013.txt",
+		"/Volumes/Personal/Taxes/Canada taxes/2014/Additional income/BDC.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Chamber of Commerce/(2014) Winnipeg Chamber of Commerce - CTA Task Force/22 April version from Loren/READ ME.txt",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/2014 2015/Minutes/29 April 2015/minutes.txt",
+		"/Users/davidduval/Library/Caches/Cleanup At Startup/Transmit/A5C9FFA9-3A87-435C-82BE-6217CC069E06/index.htm",
+		"/Users/davidduval/Desktop/CentrePort.txt",
+		"/Users/davidduval/Desktop/Editorial.txt",
+		"/Users/davidduval/Documents/MAIN/Consulting/(2014) CTA Secretariat/CTA-S-draft-report-Duval.tex",
+		"/Users/davidduval/Library/Caches/Cleanup At Startup/Transmit/D9B15109-5BDF-4B09-9912-A461952FE3B6/faculty.htm",
+		"/Users/davidduval/Documents/MAIN/Administration/Department-of-Business-and-Administration-(Winnipeg)/DCC/2013 2014/(2013-2014)-Honours/@DCC - honours.txt",
+		"/Users/davidduval/Documents/MAIN/Administration/Department-of-Business-and-Administration-(Winnipeg)/DCC/2013 2014/(2013-2014)-Honours/(2015) The new form (20 April 2015)/notes.txt",
+		"/Users/davidduval/Documents/MAIN/Consulting/(2014) CTA Secretariat/conclusion.tex",
+		"/Users/davidduval/Downloads/Mix4/mix details.txt",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-4220-International-Business/Admin/(2015) potential academic misconduct/notes.txt",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-4220-International-Business/Admin/(2015)-potential-academic-misconduct/Memo/Memo-letter.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-4220-International-Business/Admin/(2015) potential academic misconduct/Memo/Memo-letter.tex",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/BUS-4220-research-paper-guidelines.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/BUS-4220-Course-outline.md",
+		"/Users/davidduval/Documents/MAIN/Conferences and travel/2015/WAA Board reteat/notes.txt",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/2014 2015/Minutes/18 March 2015/minutes 18 March 2015.txt",
+		"/Users/davidduval/Dropbox/UMTI-General/Admin/2014 5 year review/April 2015 Addendum/Addendum.tex",
+		"/Users/davidduval/Dropbox/UMTI-General/Admin/2014 5 year review/April 2015 Addendum/table.tex",
+		"/Users/davidduval/Dropbox/UMTI-General/Admin/2014 5 year review/Revised-report-(January-2015)/Revised-report/Revised-UMTI-five-year-review-report.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-1201-Introduction-to-Business-I/BUS-1201-course-outline/BUS-1201-003-Autumn-2015-Duval.tex",
+		"/Users/davidduval/Documents/MAIN/Administration/CV/CV-LaTeX-version/DuvalCV.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-1201-Introduction-to-Business-I/BUS-1201-course-outline/BUS-1201-003-Lecture-times-and-locations.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-1201-Introduction-to-Business-I/BUS-1201-course-outline/BUS-1201-003-lecture-schedule.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-1201-Introduction-to-Business-I/BUS-1201-course-outline/BUS-1201-003-header.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-1201-Introduction-to-Business-I/BUS-1201-course-outline/BUS-1201-003-Critical-Dates.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-1201-Introduction-to-Business-I/BUS-1201-course-outline/BUS-1201-004-Autumn-2015-Duval.tex",
+		"/Users/davidduval/Documents/MAIN/Work/LaTeX_Resources/DOCUMENT TEMPLATES/Memo (letter) UW/Memo-letter.tex",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-14-hrm/4220-5-14-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-13-marketing/4220-5-13-textbook-discussion-questions.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/4220-tic-toc.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-14-hrm/4220-5-14-textbook-discussion-questions.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-15-risk/4220-5-15-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-13-marketing/4220-5-13-textbook-cases.md",
+		"/Users/davidduval/Desktop/Ottawa/Ottawa.txt",
+		"/Users/davidduval/Documents/MAIN/Administration/Department-of-Business-and-Administration-(Winnipeg)/DCC/(2014 2015) March package/SCC March package cover memo/BUS-March-2015-package.tex",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-12-production/4220-5-12-textbook-discussion-questions.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-12-production/4220-5-12-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-10-corp-strategy/4220-5-10-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-10-corp-strategy/4220-5-10-textbook-discussion-questions.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/4220-5-academic-articles.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-10-corp-strategy/4220-5-10-notes.md",
+		"/Users/davidduval/Documents/MAIN/Conferences and travel/2015/2nd Transport Special Interest Group Symposium (April 2015)/Abstract.txt",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/4220-5-15-textbook-discussion-questions.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/4220-5-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-9-org/4220-5-9-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-9-org/4220-5-9-textbook-discussion-questions.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-9-org/4220-5-9-notes.md",
+		"/Users/davidduval/Documents/MAIN/Administration/Reference letters/Jackie Dawson (2015)/J Dawson - CRC evaluation.txt",
+		"/Users/davidduval/Documents/MAIN/Administration/Reference letters/Jackie Dawson (2015)/Letter/Duval-J-Dawson-CRC-report.tex",
+		"/Users/davidduval/Dropbox/UMTI-General/Projects/(2014) CTA Secretariat - Airline foreign ownership/FINAL proposal and contract/FINAL-Proposal-CTA-foreign-ownership-air-services-Canada.tex",
+		"/Users/davidduval/Documents/MAIN/Work/Current/Chapters/(2014) Routledge Handbook on tourism in Asia/References.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Current/Chapters/(2014) Routledge Handbook on tourism in Asia/chapter.txt",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-8-strategy/4220-5-8-notes.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-8-strategy/4220-5-8-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-8-strategy/4220-5-8-textbook-cases",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-5/Chapter-8-strategy/4220-5-8-textbook-discussion-questions.md",
+		"/Users/davidduval/Documents/MAIN/Administration/Department-of-Business-and-Administration-(Winnipeg)/DCC/Reports to Department/2015/March 2015/March-2015-DCC-report.tex",
+		"/var/folders/qv/38z3x88d74l8ccfbrfq3g5840000gn/T/standard-latex-preamble",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-4/4220-4-notes.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-4/4220-4-textbook-cases.md",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/Secretary job description/Secretary-job-description-OEPAC.txt",
+		"/Users/davidduval/Documents/ARCHIVE/ARCHIVE - Teaching/2014/BUS 4220 - Winter 2014/Files from website/4220 - Winter 2014 - Resources.txt",
+		"/var/folders/qv/38z3x88d74l8ccfbrfq3g5840000gn/T/standard-latex-exam-preamble",
+		"/Users/davidduval/Documents/MAIN/UMTI/Al Phillips/Contract/A-Phillips-2015-2016-contract.tex",
+		"/Users/davidduval/Documents/MAIN/UMTI/Letter template/UMTI-letter-template.tex",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-3/4220-3-textbook-cases.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-3/4220-3-academic-articles.md",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-3/4220-3-notes.md",
+		"/Users/davidduval/Desktop/Dear Mr Rosen.txt",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/BUS-4220-resources.md",
+		"/Users/davidduval/Desktop/Lisa.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Referee Reports/Journal of Air Transport Management/March 2015/Review.txt",
+		"/Users/davidduval/Library/Caches/Cleanup At Startup/Transmit/A1961DAB-2C48-474F-8422-4103A1BAE688/faculty.htm",
+		"/var/folders/qv/38z3x88d74l8ccfbrfq3g5840000gn/T/ST3-user-settings",
+		"/Users/davidduval/Dropbox/BUS-4220-lecture-notes/Module-3/4220-3-textbook-discussion-questions.md",
+		"/Users/davidduval/Documents/MAIN/Work/Funding/(2015) ARC/F12/Duval-F12.tex",
+		"/Users/davidduval/Documents/MAIN/Work/Chamber of Commerce/Transportation Leadership Council/Meeting agendas and notes/January 2015/NOTES.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Funding/(2015) ARC/To fill out/details of what is needed for some sections.txt",
+		"/Users/davidduval/Dropbox/Personal/OE-Parents-Council/2014 2015/Minutes/21 January 2015/Minutes.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Funding/(2015) ARC/F13/Duval-F13.tex",
+		"/Users/davidduval/Documents/MAIN/Administration/Department-of-Business-and-Administration-(Winnipeg)/Tenure and promotion (2015)/untitled.tex",
+		"/Users/davidduval/Documents/MAIN/Teaching - courses/BUS-4220-International-Business/Mid-term exam/2015/In-class-version/BUS-4220-Duval-mid-term-exam-Winter-2015.tex",
+		"/Users/davidduval/Documents/MAIN/Work/Funding/(2015) ARC/To fill out/text.txt",
+		"/Users/davidduval/Documents/MAIN/Work/Funding/(2015) ARC/PI-Duval text.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"competition",
+			"mobilit",
+			"moibi",
+			"economic",
+			"font",
+			"markup",
+			"#193549",
+			"airport",
+			"section",
+			"[topsep=0pt, partopsep=0pt]",
+			"(2015) potential academic misconduct",
+			"Koo",
+			"longtabl",
+			"page",
+			"\\\\*",
+			"penalt",
+			"table",
+			"longtab",
+			"link",
+			"longtab",
+			"link",
+			"2014",
+			"contract",
+			"media",
+			"draft",
+			"2014",
+			"004",
+			"KPI",
+			"SPI",
+			"submissio",
+			"contribution",
+			"economic",
+			".\n",
+			"chapter 15",
+			"15",
+			"link",
+			"cross",
+			"resume",
+			"etaremune",
+			"tourism dunedin",
+			"font",
+			"mdbch",
+			"problems",
+			"associate",
+			"80,00",
+			"Supply",
+			"thesis",
+			"  ",
+			"morphon",
+			"break",
+			"heck",
+			"Slowdown",
+			"costing",
+			"The Act allows",
+			"The act allows",
+			"The acts allows",
+			"The Act allows foreign shareholdings in an Australian carrier operating",
+			"trade",
+			"new trade",
+			"air",
+			"caption",
+			"Afri",
+			"Afric",
+			"footnote",
+			"minipage",
+			"table",
+			"back",
+			"David",
+			"needs",
+			"PPP",
+			"angel",
+			"shipping",
+			"joint",
+			"partn",
+			"angel",
+			"prcis",
+			"williamson",
+			"customer",
+			"swag",
+			"tactic",
+			"tactic to use",
+			"williams",
+			" die ",
+			"here",
+			"bold",
+			"Note that the list of readings will be changing as we go along.  This is because either David or students in the class may discover additional readings that may be of use or interest in our discussions.  \n",
+			"”",
+			"“",
+			"triad",
+			"    ",
+			"markup",
+			"mark",
+			"list",
+			"mark",
+			"size",
+			"markup",
+			"header",
+			"h1",
+			"value propo",
+			"action",
+			"analysis",
+			" CIA ",
+			"section",
+			"\\section",
+			"’",
+			"”",
+			"“",
+			"section",
+			"what you offer",
+			"•	",
+			"008",
+			"2013",
+			"008	",
+			"duval",
+			"gmail",
+			"answer",
+			"choice",
+			"otago",
+			"bretton",
+			"spacing",
+			"CIO",
+			"spacing",
+			"table of con",
+			"15",
+			"degree",
+			"three",
+			" present ",
+			"present"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"(2015)-potential-academic-misconduct",
+			"003",
+			"resume,topsep=0pt, partopsep=0pt",
+			"enumerate",
+			" ",
+			"Tourism and Transport: Modes, Networks, Flows",
+			" the ",
+			"the",
+			"\"",
+			"",
+			" Custom Interconnect Assemblies",
+			"\\section*",
+			"'",
+			"''",
+			"``",
+			"section*",
+			"\\item ",
+			"\\item",
+			"012",
+			"2014",
+			"012",
+			"UMTI-UM-2013",
+			"''",
+			"``",
+			"'",
+			"AD6",
+			"AC6",
+			"AC",
+			"008",
+			"section*{",
+			"4999",
+			"\\end{choices}",
+			"\\begin{choices} ",
+			"",
+			"enumerate",
+			"AE5",
+			"AD5",
+			"AD6",
+			" \\& ",
+			"\\& ",
+			"/\\&",
+			"\\&",
+			"/\\&",
+			"(\\&)",
+			"\\&",
+			"aaaa",
+			"sdfs",
+			"sdf",
+			"\\&",
+			"/\\&",
+			"(/\\&)",
+			"(\\&)",
+			"\\&",
+			"(\\&)",
+			"\\&",
+			"3990",
+			"S6",
+			"R6",
+			"AS4",
+			"S6",
+			"R6",
+			"0.9ex",
+			"\\\\[0.6ex]",
+			"012",
+			"004",
+			"BUS-1201-012",
+			"BUS-1201-004",
+			"section",
+			"- ",
+			"   ",
+			" -- ",
+			"\\end{enumerate}",
+			"\\begin{enumerate}",
+			"enumerate",
+			"phase one",
+			"X. "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 217.0
+	},
+	"output.find_results":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/User/Marked.sublime-build",
+	"project": "Website.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/MAIN/Work/Current/Chapters/(2016) Mass tourism (Harrison and Sharpley)/MT-chapter-Harrison-Sharpley.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
