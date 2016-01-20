@@ -8,7 +8,7 @@ I am an Associate Professor in the Faculty of Business and Economics at the [Uni
              
 ### Research
 
-I study commercial air transport law and economics and have consulted to national governments on related policy issues.  A detailed CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).     
+I study the economic regulation of commercial air transport and have consulted to national governments on related policy issues.  A detailed CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).     
 
 ### SME advising and consulting
 
