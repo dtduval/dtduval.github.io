@@ -4,7 +4,9 @@ I am an Associate Professor in the Faculty of Business and Economics at the [Uni
 
 ###Teaching     
 
-*Winter Semester 2016*: BUS 4220-002 (International Business) - Tuesdays, Thursdays @ 14:30 in 4BC57         
+*Winter Semester 2016*: BUS 4220-002 (International Business) - Tuesdays, Thursdays @ 14:30 in 4BC57
+
+To book a time to see me during my office hours, [click here](https://gewhtttyjc.youcanbook.me/)         
              
 ### Research
 
