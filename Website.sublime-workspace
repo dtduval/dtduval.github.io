@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1952,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -257,8 +265,8 @@
 	],
 	"file_history":
 	[
-		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/index.html",
 		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/index.md",
+		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/index.html",
 		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/about.md",
 		"/Users/davidduval/Dropbox/GitHub website/dtduval.github.io/about.html",
 		"/Users/davidduval/Dropbox/Main/Teaching - courses/BUS-4220-International-Business/BUS-4220-lecture-notes/Module-4/4220-4-notes.md",
@@ -625,8 +633,44 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1932,
+								1932
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"bs_sintax": "html",
+							"buffer_scroll_name": "e624aeab",
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1599.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

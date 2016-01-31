@@ -12,6 +12,6 @@ To book a time to see me during my office hours, [click here](https://gewhtttyjc
 
 I study the economic regulation of commercial air transport and have consulted to national governments on related policy issues.  A detailed CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).     
 
-### SME advising and consulting
+### Consulting
 
-If you are a small to medium-sized business looking to develop or even critically evaluate your business and/or marketing strategy, [I can probably help](mailto:david@dtduval.com).
+If you are a small to medium-sized company looking to develop or critically evaluate your business and/or marketing strategy, [I can help](mailto:david@dtduval.com).
