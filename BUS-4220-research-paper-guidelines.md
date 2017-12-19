@@ -4,6 +4,7 @@ title: Research Paper Guidelines
 permalink: /Research-Paper-Guidelines/
 ---
 
+
 # BUS 4220–002 INTERNATIONAL BUSINESS (Winter 2017)
 
 Last update: 5 December 2017 @ 09:54CST
