@@ -1,3 +1,9 @@
+---
+layout: page
+title: Daily Notes
+permalink: /Daily Notes/
+---
+
 ## BUS 4220 (INTERNATIONAL BUSINESS) - WINTER 2017
 ## DAILY NOTES
 ## Last update: 12 October 2017 @ 17:38CDT
@@ -56,7 +62,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **CLASS NOTES**
 
- 
+
 
 ---------------------------------------------
 
@@ -106,7 +112,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - Reading:
 - [Winnipeg's bid for Amazon's HQ2](http://tourismwpg.uberflip.com/i/887850-winnipeg-proposal-amazon-oct2017-highres-300dpi).
-- 
+-
 
 **CLASS NOTES**
 
