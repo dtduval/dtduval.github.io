@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Outline
-permalink: /Course Outline/
+permalink: /Course-Outline/
 ---
 
 TEST TEST

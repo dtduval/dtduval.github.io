@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Paper Guidelines
-permalink: /Research Paper Guidelines/
+permalink: /Research-Paper-Guidelines/
 ---
 
 
