@@ -1,17 +1,6 @@
-
-
-I am an Associate Professor in the Faculty of Business and Economics at the [University of Winnipeg](http://www.uwinnipeg.ca) and Director of the [University of Manitoba Transport Institute](http://www.umti.ca).  I do, and have done, [other things as well](https://dtduval.github.io/about.html).
-
-###Teaching     
-
-*Winter Semester 2016*: BUS 4220-002 (International Business) - Tuesdays, Thursdays @ 14:30 in 4BC57
-
-To book a time to see me during my office hours, [click here](https://gewhtttyjc.youcanbook.me/)         
-             
-### Research
-
-I study the economic regulation of commercial air transport and have consulted to national governments on related policy issues.  A detailed CV is available [here](http://dl.dropbox.com/u/461710/DuvalCV.pdf).     
-
-### Consulting
-
-If you are a small to medium-sized company looking to develop or critically evaluate your business and/or marketing strategy, [I can help](mailto:david@dtduval.com).
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
