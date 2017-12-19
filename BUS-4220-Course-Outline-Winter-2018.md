@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Course Outline
-permalink: /Course Outline/
+permalink: /Course-Outline/
 ---
-
 
 
 ## BUS 4220 (INTERNATIONAL BUSINESS) - WINTER 2018
