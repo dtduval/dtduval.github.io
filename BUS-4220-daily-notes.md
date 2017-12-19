@@ -4,9 +4,8 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-## BUS 4220 (INTERNATIONAL BUSINESS) - WINTER 2017
-## DAILY NOTES
-## Last update: 12 October 2017 @ 17:38CDT
+### DAILY NOTES
+### Last update: 19 December 2017 @ 16:08CST
 
 ---------------------------------------------
 

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to BUS 4220 (Winter 2018)"
+date:   2017-12-19 14:49:07 -0600
+categories: news
+---
+Welcome to the course!
+
+Announcements will be posted here.
