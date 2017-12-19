@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Paper Guidelines
-permalink: /Research-Paper-Guidelines/
+permalink: /Research Paper Guidelines/
 ---
 
 # BUS 4220–002 INTERNATIONAL BUSINESS (Winter 2017)
