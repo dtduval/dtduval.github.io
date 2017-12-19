@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daily Notes
-permalink: /Daily-Notes/
+permalink: /Daily Notes/
 ---
 
 ## BUS 4220 (INTERNATIONAL BUSINESS) - WINTER 2017
