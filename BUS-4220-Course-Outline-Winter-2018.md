@@ -226,15 +226,15 @@ Letter grades are not assigned to individual pieces of assessment. Only the tota
 
 A standard grading scale is utilised in all courses within the Department of Business and Administration. Note that this may differ from other Departments or courses at the University of Winnipeg. The scale itself is below, along with a functional interpretation of the meaning of specific grades as they pertaining to assignments. Note that this scale is specific to this course only.
 
-* A+ (>90): Outstanding, essentially flawless, innovative, demonstrates exceptional understanding
-* A (85–89): Outstanding, clear and concise, demonstrates well–above–average understanding
-* A- (80–84): Highly polished and logical
-* B+ (75–79): Solid, but minimally flawed
-* B (70–74): Solid, but a few errors, demonstrates better–than–average understanding
-* C+ (65–69): Minimal understanding, no originality, somewhat repetitive of sources
-* C (60–64): Average (elementary) understanding, egregious errors in concepts, material and/or layout
-* D (50–59): Barely adequate, poorly organised, below–average understanding, numerous errors
-* F (<50): No obvious understanding, unprofessional, very poor
+* A+ (>90) Outstanding, essentially flawless, innovative, demonstrates exceptional understanding
+* A (85–89) Outstanding, clear and concise, demonstrates well–above–average understanding
+* A- (80–84) Highly polished and logical
+* B+ (75–79) Solid, but minimally flawed
+* B (70–74) Solid, but a few errors, demonstrates better–than–average understanding
+* C+ (65–69) Minimal understanding, no originality, somewhat repetitive of sources
+* C (60–64) Average (elementary) understanding, egregious errors in concepts, material and/or layout
+* D (50–59) Barely adequate, poorly organised, below–average understanding, numerous errors
+* F (<50) No obvious understanding, unprofessional, very poor
 
 ### FEEDBACK ON ASSESSMENTS (excluding mid–term exam)
 
