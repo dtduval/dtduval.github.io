@@ -27,10 +27,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Where to go for information (all available on [Nexus](http://nexus.uwinnipeg.ca/):   
-    - The Course outline is the governing document for the course.  It contains the broad course policies as well as expectations.  Please refer to it in the first instance if you have any questions.  If the answer is not there, email me.
-    - The "Resources" page tells you pretty much what and when you need to be reading.  Students registered in the course will be expected to volunteer to present these readings.  If you wish to volunteer, [go to this Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing).  Volunteering/presenting goes toward your contribution grade.
-    - The "Daily Notes" page is more or less the course blog, even thought it's a static website that appears here on Nexus.  You should be checking this page several times a week, if not more often.  It is already long and populated with all kinds of things, but it will get longer.
+- Where to go for information:   
+    - Check "The Important Stuff" folder on Nexus.
+    - The "Readings and Resources" Google Spreadsheet tells you pretty much what and when you need to be reading.  Students registered in the course will be expected to volunteer to present these readings.  If you wish to volunteer, [go to the Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing).  Remember, volunteering/presenting goes toward your contribution grade.
+    - The "Daily Notes" page is more or less the course blog, even thought it's a static website that appears [here](http://dtduval.github.io/Daily-Notes/).  You should be checking this page several times a week, if not more often.  It is already long and populated with all kinds of things, but it will get longer.
     - My [Pinboard](https://pinboard.in/u:dtduval) has quite a few links organised by module (e.g., 4220-1 for Module 1), and I will be adding to these as we go along in the course.  
     - [Nexus](http://nexus.uwinnipeg.ca/) also contains a few documents and items specific to each module that I did not (or could not) make public due to copyright issues or logistics.  Nexus is also where I will post your grades (usually as a .pdf with just your student number).  Finally, note that there is a specific section dedicated to the major research paper on Nexus (more later).
 - As a further reminder, if everyone uploads a photo of themselves to Nexus, that would be helpful as I can use it to learn your names much more quickly.
