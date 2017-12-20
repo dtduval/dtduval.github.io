@@ -6,7 +6,7 @@ permalink: /Course-Outline/
 
 ### COURSE OUTLINE
 
-Last update: 11 December 2017 @ 10:51CST
+Last update: 20 December 2017 @ 09:48CST
 
 ### CONTACT
 

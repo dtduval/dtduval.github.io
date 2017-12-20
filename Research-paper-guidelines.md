@@ -7,7 +7,7 @@ permalink: /Research-Paper-Guidelines/
 
 #####  GUIDELINES AND ADVICE FOR THE INDEPENDENT RESEARCH PAPER
 
-Last update: 5 December 2017 @ 09:54CST
+Last update: 20 December 2017 @ 09:49CST
 
 
  INTRODUCTION
