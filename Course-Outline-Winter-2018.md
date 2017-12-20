@@ -4,8 +4,6 @@ title: Course Outline
 permalink: /Course-Outline/
 ---
 
-### COURSE OUTLINE
-
 Last update: 20 December 2017 @ 09:48CST
 
 ### CONTACT
