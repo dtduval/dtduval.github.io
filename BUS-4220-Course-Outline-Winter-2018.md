@@ -178,10 +178,10 @@ The articles you select cannot already be selected by David for wider discussion
 
 For your review of each article you must address:
 
-a. The key point(s), including the wider problem/issue being addressed;
-b. The methods used;
-c. Opportunities for further research;
-d. Strengths and deficiencies (in your opinion) with the methods, interpretation and conclusions.
+* The key point(s), including the wider problem/issue being addressed;
+* The methods used;
+* Opportunities for further research;
+* Strengths and deficiencies (in your opinion) with the methods, interpretation and conclusions.
 
 Your review of any single article should be between 1000 and 1200 words, thus for all three articles you will be writing between 2400 and 3600 words.  Grades for each review can earn a maximum of 10 marks.  The best grades will be rewarded to students who (a) pick articles relevant to the course, (b) address the four criteria above in a detailed and critical manner (a good way is to bring in additional sources to achieve this), and (c) draw specific parallels to the study of international business as discussed in the class and/or in any international business textbook.  90% of your grade in this assessment is based on content, with the remainder allocated to presentation, grammar, spelling, etc.  The format of your review is at your discretion.
 
