@@ -1,4 +1,4 @@
-#### Case studies
+# Case studies
 
 We will be using case studies in this course.  The collection of case studies is avaiable for purchase online at a cost of CDN$17.00 (electronic version).  Follow these steps to purchase:
 

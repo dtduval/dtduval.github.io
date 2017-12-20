@@ -5,18 +5,18 @@ permalink: /Research-Paper-Guidelines/
 ---
 
 
-## GUIDELINES AND ADVICE FOR THE INDEPENDENT RESEARCH PAPER
+#####  GUIDELINES AND ADVICE FOR THE INDEPENDENT RESEARCH PAPER
 
 Last update: 5 December 2017 @ 09:54CST
 
 
-### INTRODUCTION
+ INTRODUCTION
 
 This assessment represents a *significant* piece of independent research and is the single largest component of your final grade in this course. The paper offers you the opportunity to undertake in–depth research (using secondary sources, but perhaps generating new analysis) on a topic of *your choice*. Because of this wide flexibility, early consultation with David (i.e., within the first few weeks of the semester) is *absolutely vital*.
 
 Considerable time will be devoted during class sessions to discussing the broad scope of this assessment. As well, you are more than welcome to schedule an appointment with me during my office hours (see [dtduval.com](http://www.dtduval.com)).
 
-### EXPECTATIONS
+ EXPECTATIONS
 
 1.  The paper *must* address in–depth a specific issue relating to the conduct of international business as discussed in the course.  In other words, your paper must be grounded in the concepts discussed in the course or within the readings.
 2.  It is expected to be written and presented with the strongest consideration given to academic scholarship, attention to detail and professional presentation.
@@ -24,7 +24,7 @@ Considerable time will be devoted during class sessions to discussing the broad 
 4.  You are expected to use and cite a *minimum* of 25 academic sources, although in practice it is not unusual for students to utilise considerably more.  That said, the absolute number of references is, in itself, not paramount; rather, it is how your references are used that will count toward a higher grade.
 5.  Your paper must be submitted electronically as a single typewritten .pdf on the date specified in the Course Outline.  See below on how to submit.
 
-### MARKING GUIDELINES
+ MARKING GUIDELINES
 
 The following general guidelines shall be used when assigning a grade for this assessment:
 
@@ -50,7 +50,7 @@ The following general guidelines shall be used when assigning a grade for this a
     -   Spelling (small mistakes are overlooked).
     -   References and citations (relevance, appropriateness, number).
 
-### FORM AND STRUCTURE
+ FORM AND STRUCTURE
 
 1.  Write in the third person.
 2.  Write in the present tense.
@@ -61,11 +61,11 @@ The following general guidelines shall be used when assigning a grade for this a
 6.  Do not reference textbooks. This is a research paper in a 4000 level course. You are expected to be utilising materials far more advanced that what most textbooks are able to provide.
 7.  For referencing, I will accept any referencing style *as long as it is consistent*.
 
-### HOW TO SUBMIT
+ HOW TO SUBMIT
 
 Render your final paper as a single .pdf file (not multiple files) and upload via the dropbox facility on Nexus.
 
-### RESOURCES FOR WRITING YOUR RESEARCH PAPER
+ RESOURCES FOR WRITING YOUR RESEARCH PAPER
 
 I spent a bit of time scouring around for what I would consider useful tutorials and resources on how to write a research paper. I say useful because I found quite a bit of stuff that I thought was actually rather terrible.
 
@@ -76,6 +76,6 @@ I spent a bit of time scouring around for what I would consider useful tutorials
 - Finally, [this is an excellent overview](https://library.wlu.ca/sites/default/files/pdfs/tutorials/scholarlysource.pdf) of what constitutes an academic source.
 
 
-### CHANGE LOG
+ CHANGE LOG
 
 5 December 2017 - update

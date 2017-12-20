@@ -4,12 +4,12 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-### DAILY NOTES
-### Last update: 19 December 2017 @ 16:08CST
+ DAILY NOTES
+ Last update: 19 December 2017 @ 16:08CST
 
 ---------------------------------------------
 
-### [Here is the link to the online Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing) where you can volunteer to present a reading to the class.
+ [Here is the link to the online Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing) where you can volunteer to present a reading to the class.
 
 ---------------------------------------------
 
