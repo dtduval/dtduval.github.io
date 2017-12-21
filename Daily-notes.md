@@ -37,7 +37,7 @@ As you scroll down, you will find that most dates will have two sections associa
 - As you will be writing a research paper for this course, [click here](https://docs.google.com/spreadsheets/d/1piETwGKGkrYe4LuPUn97E8xlTqQdZkUAjGMEOd7kv-c/edit?usp=sharing) to go to a public Google Doc spreadsheet where you can indicate your topic area, name and email if you wish to link up with others in the class writing on something similar.  This is a good way to form a study group to share resources, references, etc.
 - Reminder: please DO NOT email me through Nexus.  Instead, email me directly on [da.duval@uwinnipeg.ca](mailto:da.duval@uwinnipeg.ca)
 - Note that there are four modules in this course.  These are detailed in the course outline.
-- To speed up access to the journal article readings for this course, use this link](http://cufts2.lib.sfu.ca/CRDB/MWUC/resource/6456) to connect to Google Scholar via the UWinnipeg library system.  From there, enter the name of the article and you'll be able to access a .pdf.
+- To speed up access to the journal article readings for this course, use [this link](http://cufts2.lib.sfu.ca/CRDB/MWUC/resource/6456) to connect to Google Scholar via the UWinnipeg library system.  From there, enter the name of the article and you'll be able to access a .pdf.
 
 - We will do roundtable introductions and a review of course objectives.
 
