@@ -110,8 +110,7 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 - Visit by Greg Dandewich, Senior Vice President, Economic Development Winnipeg
 
-- Reading:
-  - [Winnipeg's bid for Amazon's HQ2](http://tourismwpg.uberflip.com/i/887850-winnipeg-proposal-amazon-oct2017-highres-300dpi)
+- Background reading: [Winnipeg's bid for Amazon's HQ2](http://tourismwpg.uberflip.com/i/887850-winnipeg-proposal-amazon-oct2017-highres-300dpi)
 
 
 **CLASS NOTES**
