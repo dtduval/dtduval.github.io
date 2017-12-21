@@ -105,6 +105,7 @@ As you scroll down, you will find that most dates will have two sections associa
 # 23 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
 **CLASS NOTES**
 
 ---------------------------------------------
@@ -124,6 +125,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 - Visit by Barry Rempel, CEO, Winnipeg Airports Authority
+- Background reading: [WAA publication and stats](http://www.waa.ca/waa/about/publications)
 
 **CLASS NOTES**
 
