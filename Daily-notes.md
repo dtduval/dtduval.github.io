@@ -93,6 +93,7 @@ As you scroll down, you will find that most dates will have two sections associa
 # 18 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
 **CLASS NOTES**
 
 ---------------------------------------------
@@ -110,8 +111,8 @@ As you scroll down, you will find that most dates will have two sections associa
 - Visit by Greg Dandewich, Senior Vice President, Economic Development Winnipeg
 
 - Reading:
-- [Winnipeg's bid for Amazon's HQ2](http://tourismwpg.uberflip.com/i/887850-winnipeg-proposal-amazon-oct2017-highres-300dpi).
--
+  - [Winnipeg's bid for Amazon's HQ2](http://tourismwpg.uberflip.com/i/887850-winnipeg-proposal-amazon-oct2017-highres-300dpi)
+
 
 **CLASS NOTES**
 
