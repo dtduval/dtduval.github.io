@@ -86,6 +86,9 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 - Visit by Diane Grey, CEO, CentrePort Canada and Mariette Mulaire, CEO, World Trade Centre Winnipeg
+- Background reading: [CentrePort Canada Act](http://web2.gov.mb.ca/laws/statutes/ccsm/c044e.php)
+- Background reading: [CentrePort reports and policies](http://www.centreportcanada.ca/corporate/the-corporation/reports-and-policies)
+- [World Trade Centre Winnipeg](http://www.wtcwinnipeg.com/en/)
 
 **CLASS NOTES**
 
