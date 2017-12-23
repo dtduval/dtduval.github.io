@@ -4,8 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
- ## DAILY NOTES    
- Last update: 23 December 2018 @ 12:28CST    
+Last update: 23 December 2018 @ 12:28CST    
 
 ---------------------------------------------
 ---------------------------------------------
