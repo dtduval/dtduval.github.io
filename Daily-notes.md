@@ -4,9 +4,12 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
- DAILY NOTES
- Last update: 23 December 2018 @ 12:28CST
- ---------------------------------------------
+ ## DAILY NOTES    
+ Last update: 23 December 2018 @ 12:28CST    
+
+---------------------------------------------
+---------------------------------------------
+
 
 ---------------------------------------------
 
@@ -27,9 +30,9 @@ As you scroll down, you will find that most dates will have two sections associa
 ---------------------------------------------
 
 
-# MODULE 1 (Weeks 1 and 2)
+## MODULE 1 (Weeks 1 and 2)
 
-# 4 January 2018
+## 4 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -56,7 +59,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 ---------------------------------------------
 
-# 9 January 2018
+## 9 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -72,7 +75,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 ---------------------------------------------
 
-# 11 January 2018
+## 11 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -95,7 +98,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 ---------------------------------------------
 
-# 18 January 2018
+## 18 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 - Visit by Diane Grey, CEO, CentrePort Canada and Mariette Mulaire, CEO, World Trade Centre Winnipeg
@@ -117,7 +120,7 @@ As you scroll down, you will find that most dates will have two sections associa
 **CLASS NOTES**
 
 ---------------------------------------------
-# 18 January 2018
+## 18 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -136,7 +139,7 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 ---------------------------------------------
 
 
-# 23 January 2018
+## 23 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -146,9 +149,9 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 ---------------------------------------------
 
-# MODULE 2
+## MODULE 2
 
-# 25 January 2018
+## 25 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -163,7 +166,7 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# 30 January 2018
+## 30 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 - Visit by Barry Rempel, CEO, Winnipeg Airports Authority
@@ -174,38 +177,14 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 **CLASS NOTES**
 
 ---------------------------------------------
-# 1 February 2018
+## 1 February 2018
 **PROCEDURAL NOTES AND AGENDA**
 
 **CLASS NOTES**
 
 
 ---------------------------------------------
-# 6 February 2018
-**PROCEDURAL NOTES AND AGENDA**
-
-
-**CLASS NOTES**
-
-
----------------------------------------------
-# MODULE 3 (POSSIBLY!)
-
-# 8 February 2018
-
-**PROCEDURAL NOTES AND AGENDA**
-
-**CLASS NOTES**
-
-
----------------------------------------------
-# 13 February 2018
-**PROCEDURAL NOTES AND AGENDA**
-
-**CLASS NOTES**
-
----------------------------------------------
-# 15 February 2018
+## 6 February 2018
 **PROCEDURAL NOTES AND AGENDA**
 
 
@@ -213,12 +192,23 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# SPRING BREAK
+## MODULE 3 (POSSIBLY!)
+
+## 8 February 2018
+
+**PROCEDURAL NOTES AND AGENDA**
+
+**CLASS NOTES**
+
 
 ---------------------------------------------
+## 13 February 2018
+**PROCEDURAL NOTES AND AGENDA**
 
-# 27 February 2018
+**CLASS NOTES**
 
+---------------------------------------------
+## 15 February 2018
 **PROCEDURAL NOTES AND AGENDA**
 
 
@@ -226,8 +216,11 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
+## SPRING BREAK
 
-# 1 March 2018
+---------------------------------------------
+
+## 27 February 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -236,18 +229,8 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# MODULE 4
 
-# 6 March 2018
-
-**PROCEDURAL NOTES AND AGENDA**
-
-
-**CLASS NOTES**
-
-
----------------------------------------------
-# 8 March 2018
+## 1 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -256,7 +239,9 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# 13 March 2018
+## MODULE 4
+
+## 6 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -265,9 +250,27 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# MODULE 5
+## 8 March 2018
 
-# 15 March 2018
+**PROCEDURAL NOTES AND AGENDA**
+
+
+**CLASS NOTES**
+
+
+---------------------------------------------
+## 13 March 2018
+
+**PROCEDURAL NOTES AND AGENDA**
+
+
+**CLASS NOTES**
+
+
+---------------------------------------------
+## MODULE 5
+
+## 15 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -275,7 +278,7 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# 20 March 2018
+## 20 March 2018
 **PROCEDURAL NOTES AND AGENDA**
 
 **CLASS NOTES**
@@ -283,7 +286,7 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# 22 March 2018
+## 22 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -291,21 +294,21 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# 27 March 2018
+## 27 March 2018
 **PROCEDURAL NOTES AND AGENDA**
 
 **CLASS NOTES**
 
 
 ---------------------------------------------
-# 29 March 2018
+## 29 March 2018
 **PROCEDURAL NOTES AND AGENDA**
 
 **CLASS NOTES**
 
 
 ---------------------------------------------
-# 3 April 2018
+## 3 April 2018
 **PROCEDURAL NOTES AND AGENDA**
 
 **CLASS NOTES**
@@ -313,7 +316,7 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet)
 
 
 ---------------------------------------------
-# OVERFLOW CLASS (TO BE SCHEDULED)
+## OVERFLOW CLASS (TO BE SCHEDULED)
 
 **PROCEDURAL NOTES AND AGENDA**
 
