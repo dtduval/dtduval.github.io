@@ -5,7 +5,7 @@ permalink: /Daily-Notes/
 ---
 
  DAILY NOTES
- Last update: 19 December 2017 @ 16:08CST
+ Last update: 23 December 2017 @ 12:28CST
 
 ---------------------------------------------
 
@@ -15,7 +15,7 @@ permalink: /Daily-Notes/
 
 This page has two functions: (1) it will be used for immediate short-term, day-to-day planning, and (2) a review of what has taken place in each class session.  You can use this to get a sense of what I am planning for each session, based on the materials and rough agenda outlined on the Resources page.  
 
-**Please check this page often as it will be updated VERY frequently.**
+**Check this page often.  It will be updated frequently.**
 
 As you scroll down, you will find that most dates will have two sections associated with them.  **PROCEDURAL NOTES AND AGENDA** will signpost upcoming activities, announcements, deadlines and general miscellaneous items as well as provide a rough outline for that particular day.  The **CLASS NOTES** section is a re-cap of what we actually did that day in class.  
 
@@ -27,6 +27,8 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- We will do roundtable introductions and a review of course objectives.
+- Guest speakers this semester: Diane Gray (CentrePort), Mariette Mulaire (WTC Winnipeg), Barry Rempel (WAA), Greg Dandewich (Economic Development Winnipeg)
 - Where to go for information:   
     - Check "The Important Stuff" folder on Nexus.
     - The "Readings and Resources" Google Spreadsheet tells you pretty much what and when you need to be reading.  Students registered in the course will be expected to volunteer to present these readings.  If you wish to volunteer, [go to the Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing).  Remember, volunteering/presenting goes toward your contribution grade.
@@ -39,13 +41,11 @@ As you scroll down, you will find that most dates will have two sections associa
 - Note that there are four modules in this course.  These are detailed in the course outline.
 - To speed up access to the journal article readings for this course, use [this link](http://cufts2.lib.sfu.ca/CRDB/MWUC/resource/6456) to connect to Google Scholar via the UWinnipeg library system.  From there, enter the name of the article and you'll be able to access a .pdf.
 
-- We will do roundtable introductions and a review of course objectives.
 
-- Guest speakers this semester: Diane Gray (CentrePort), Mariette Mulaire (WTC Winnipeg), Barry Rempel (WAA), Greg Dandewich (Economic Development Winnipeg)
-
-- Readings to be assigned today for this Module.  See the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing).
 
 **CLASS NOTES**
+
+- For next class: I'd like everyone to source a textbook either online on in hard copy (check the library) and bring to class a list of where and how some of the broad topics/news items of today link to the material they have found.
 
 
 ---------------------------------------------
@@ -56,11 +56,12 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - We will continue populating the Google spreadsheet with volunteers to start covering some of the readings.  So, if you are interested in any of the upcoming readings (look specifically at Module 1 readings to start with) go to the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing).
 
+- Discussion: see *CLASS NOTES* from last class.  
+
 - Discussion question: What indicators can we say point to the extent of internationalisation that a company undertakes?
 
 
 **CLASS NOTES**
-
 
 
 ---------------------------------------------
@@ -70,15 +71,21 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Please read through the first three chapters of the textbook by today.
-      - In particular, let's recap Figure 2.2 from the textbook.
-
+      - I will introduce Figure 2.2 from the Rugman and Collinson textbook.
 
 - I would also like to discuss MNEs a bit in the first part of the class, in particular listing out some reasons why a firm might become a MNE (building on the various mechanisms - i.e., exporting, licensing - we discussed last class that a firm can use to _become_ internationalised).
 
-- We will focus a bit on globalisation in Module 1, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Here are some **background** online articles that you might want to read/skim before class (not necessarily for presentation by volunteers, and not to be considered examinable):
+- We will focus a bit on globalisation in Module 1, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Some background online articles can be found in the Pinboard links for this Module (see Nexus):
+
+- Readings to be discussed (volunteers needed to lead):
+
+- International Economics 1: A brief history of modern economic globalization
+- Volunteer presentation: Fundamentals of Global Strategy 2: The globalization of companies and industries
+- The Global Environment Of Business: New Paradigms For International Management
 
 **CLASS NOTES**
 
+- For next class: be sure to do some of the background reading (see the prodedural notes for the class) for our visit from Diane Grey and Mariette Mulaire.
 
 ---------------------------------------------
 
@@ -88,7 +95,7 @@ As you scroll down, you will find that most dates will have two sections associa
 - Visit by Diane Grey, CEO, CentrePort Canada and Mariette Mulaire, CEO, World Trade Centre Winnipeg
 - Background reading: [CentrePort Canada Act](http://web2.gov.mb.ca/laws/statutes/ccsm/c044e.php)
 - Background reading: [CentrePort reports and policies](http://www.centreportcanada.ca/corporate/the-corporation/reports-and-policies)
-- [World Trade Centre Winnipeg](http://www.wtcwinnipeg.com/en/)
+- [World Trade Centre Winnipeg](http://www.wtcwinnipeg.com/en/home/mandate/)
 
 **CLASS NOTES**
 
@@ -97,18 +104,33 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+Readings to be discussed (volunteers needed - see the Google spreadsheet)
+
+- Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
+- Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
+- Bremner, I (2014) The New Rules of Globalization, Harvard Business Review, January-February 2014.
+- Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
+- Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
+- Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
+- Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
+
 **CLASS NOTES**
 
 ---------------------------------------------
-# MODULE 2
+
 
 # 23 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- We will probably still be working through some of the readings listed above for the last class.
+
 **CLASS NOTES**
 
 ---------------------------------------------
+
+# MODULE 2
+
 # 25 January 2017
 
 **PROCEDURAL NOTES AND AGENDA**
