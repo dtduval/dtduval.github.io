@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 23 December 2018 @ 12:28CST    
+Last update: 31 December 2017 @ 08:00CST    
 
 ---------------------------------------------
 ---------------------------------------------
@@ -55,7 +55,6 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - For next class: I'd like everyone to source a textbook either online on in hard copy (check the library) and bring to class a list of where and how some of the broad topics/news items of today link to the material they have found.
 
-
 ---------------------------------------------
 
 ## 9 January 2018
@@ -86,20 +85,40 @@ As you scroll down, you will find that most dates will have two sections associa
 - We will focus a bit on globalisation in Module 1, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Some background online articles can be found in the Pinboard links for this Module (see Nexus):
 
 - Readings to be discussed (volunteers needed to lead):
-
-- International Economics 1: A brief history of modern economic globalization
-- Volunteer presentation: Fundamentals of Global Strategy 2: The globalization of companies and industries
-- The Global Environment Of Business: New Paradigms For International Management
+    - International Economics 1: A brief history of modern economic globalization
+    - Volunteer presentation: Fundamentals of Global Strategy 2: The globalization of companies and industries
+    - The Global Environment Of Business: New Paradigms For International Management
 
 **CLASS NOTES**
 
-- For next class: be sure to do some of the background reading (see the prodedural notes for the class) for our visit from Diane Grey and Mariette Mulaire.
+- For next class: be sure to do some of the background reading (see the procedural notes for the class) for our visit from Diane Grey and Mariette Mulaire.
 
 ---------------------------------------------
+
+## 16 January 2018
+
+**PROCEDURAL NOTES AND AGENDA**
+
+Readings to be discussed (volunteers needed - see the Google spreadsheet):
+
+  - Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
+  - Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
+  - Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
+  - Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
+  - Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
+  - Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
+  - Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
+
+**CLASS NOTES**
+
+
+---------------------------------------------
+
 
 ## 18 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
 - Visit by Diane Grey, CEO, CentrePort Canada and Mariette Mulaire, CEO, World Trade Centre Winnipeg
 - [Diane's tweet from their visit to the class last year](https://twitter.com/CentrePort/status/832327544133214208)
 
@@ -115,23 +134,6 @@ As you scroll down, you will find that most dates will have two sections associa
     - [Top exports - Manitoba](http://www.gov.mb.ca/jec/invest/busfacts/economy/top_exports.html)
     - [Import/Export Trends](http://www.economicdevelopmentwinnipeg.com/resources/research/economic-indicators/import-export-trends)
     - [Manitoba’s Merchandise Trade with the World](http://www.parl.gc.ca/Content/LOP/ResearchPublications/2013-34-e.htm)
-
-**CLASS NOTES**
-
----------------------------------------------
-## 18 January 2018
-
-**PROCEDURAL NOTES AND AGENDA**
-
-Readings to be discussed (volunteers needed - see the Google spreadsheet)
-
-- Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
-- Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
-- Bremner, I (2014) The New Rules of Globalization, Harvard Business Review, January-February 2014.
-- Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
-- Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
-- Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
-- Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
 
 **CLASS NOTES**
 
