@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 2 January 2018 @ 08:13CST   
+Last update: 4 January 2018 @ 18:59CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -53,7 +53,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **CLASS NOTES**
 
+- Great session today.  Great to meet everyone and see some familiar faces.
+- Opening Portage and Main is not stupid.  It's a legitimate view, but the point I was trying to make was that I hope the reports they commissioned took into consideration the wider transportation system, including the efficient last-mile movements of goods inside the city.  As we said, it's a critical intersection.  Reducing the flow of traffic through it, whatever the reason, will likely have some impact on traffic flow.
 - For next class: I'd like everyone to source a textbook either online on in hard copy (check the library) and bring to class a list of where and how some of the broad topics/news items of today link to the material they have found.
+- For next class: I'd like to review the volunteers/reading [spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing) and then start some initial discussion questions on the whiteboard.  See the notes and agenda for next class to help you prepare.
 
 ---------------------------------------------
 
@@ -63,9 +66,8 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - We will continue populating the Google spreadsheet with volunteers to start covering some of the readings.  So, if you are interested in any of the upcoming readings (look specifically at Module 1 readings to start with) go to the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing).
 
-- Discussion: see *CLASS NOTES* from last class.  
-
 - Discussion question: What indicators can we say point to the extent of internationalisation that a company undertakes?
+- Discussion question: why do firms become MNEs?
 
 
 **CLASS NOTES**
