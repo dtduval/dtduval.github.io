@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 4 January 2018 @ 18:59CST
+Last update: 4 January 2018 @ 23:16CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -54,6 +54,7 @@ As you scroll down, you will find that most dates will have two sections associa
 **CLASS NOTES**
 
 - Great session today.  Great to meet everyone and see some familiar faces.
+- Note that the first presentations will be starting on 11 January.  See the notes for that class below and head to the [spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing) to sign up to volunteer to present if you are interested.
 - Opening Portage and Main is not stupid.  It's a legitimate view, but the point I was trying to make was that I hope the reports they commissioned took into consideration the wider transportation system, including the efficient last-mile movements of goods inside the city.  As we said, it's a critical intersection.  Reducing the flow of traffic through it, whatever the reason, will likely have some impact on traffic flow.
 - For next class: I'd like everyone to source a textbook either online on in hard copy (check the library) and bring to class a list of where and how some of the broad topics/news items of today link to the material they have found.
 - For next class: I'd like to review the volunteers/reading [spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing) and then start some initial discussion questions on the whiteboard.  See the notes and agenda for next class to help you prepare.
@@ -69,6 +70,7 @@ As you scroll down, you will find that most dates will have two sections associa
 - Discussion question: What indicators can we say point to the extent of internationalisation that a company undertakes?
 - Discussion question: why do firms become MNEs?
 
+- I will introduce Figure 2.2 from the Rugman and Collinson textbook.  It looks at various entry modes.
 
 **CLASS NOTES**
 
@@ -79,21 +81,22 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Please read through the first three chapters of the textbook by today.
-      - I will introduce Figure 2.2 from the Rugman and Collinson textbook.
+- We will start to focus a bit on globalisation today, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Some background online articles can be found in the Pinboard links for this Module (see Nexus).
 
-- I would also like to discuss MNEs a bit in the first part of the class, in particular listing out some reasons why a firm might become a MNE (building on the various mechanisms - i.e., exporting, licensing - we discussed last class that a firm can use to _become_ internationalised).
-
-- We will focus a bit on globalisation in Module 1, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Some background online articles can be found in the Pinboard links for this Module (see Nexus):
-
-- Readings to be discussed (volunteers needed to lead):
+- Readings to be discussed over the next few classes (volunteers needed to lead):
     - International Economics 1: A brief history of modern economic globalization
-    - Volunteer presentation: Fundamentals of Global Strategy 2: The globalization of companies and industries
+    - Fundamentals of Global Strategy 2: The globalization of companies and industries
     - The Global Environment Of Business: New Paradigms For International Management
+    - Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
+    - Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
+    - Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
+    - Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
+    - Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
+    - Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
+    - Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
 
 **CLASS NOTES**
 
-- For next class: be sure to do some of the background reading (see the procedural notes for the class) for our visit from Diane Grey and Mariette Mulaire.
 
 ---------------------------------------------
 
@@ -101,17 +104,12 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-Readings to be discussed (volunteers needed - see the Google spreadsheet):
+- Continued discussion of readings.
 
-  - Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
-  - Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
-  - Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
-  - Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
-  - Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
-  - Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
-  - Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
 
 **CLASS NOTES**
+
+- Coming up: be sure to do some of the background reading (see the procedural notes for the class) for our visit from Diane Grey and Mariette Mulaire on 18 January.
 
 
 ---------------------------------------------
@@ -123,8 +121,6 @@ Readings to be discussed (volunteers needed - see the Google spreadsheet):
 
 - Visit by Diane Grey, CEO, CentrePort Canada and Mariette Mulaire, CEO, World Trade Centre Winnipeg
 - [Diane's tweet from their visit to the class last year](https://twitter.com/CentrePort/status/832327544133214208)
-
-
 - Background reading:
     - [CentrePort Canada Act](http://web2.gov.mb.ca/laws/statutes/ccsm/c044e.php)
     - [CentrePort reports and policies](http://www.centreportcanada.ca/corporate/the-corporation/reports-and-policies)
