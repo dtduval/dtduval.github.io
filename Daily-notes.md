@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 4 January 2018 @ 23:16CST
+Last update: 4 January 2018 @ 23:18CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -70,7 +70,7 @@ As you scroll down, you will find that most dates will have two sections associa
 - Discussion question: What indicators can we say point to the extent of internationalisation that a company undertakes?
 - Discussion question: why do firms become MNEs?
 
-- I will introduce Figure 2.2 from the Rugman and Collinson textbook.  It looks at various entry modes.
+- I will introduce Figure 2.2 from the Rugman and Collinson textbook.  It looks at various entry modes.  You don't need to buy this or any textbook, but as I mentioned in the first class, it would be a good idea to have a look at the first few chapters of any international business textbook as it will give you an overview of the salient issues and help set the stage for some of our initial broad discussions.
 
 **CLASS NOTES**
 
