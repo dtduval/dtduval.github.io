@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 4 January 2018 @ 23:18CST
+Last update: 7 January 2018 @ 09:52CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -65,6 +65,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- Recap from the first class and a chance to get clarification on course expectations, plan, assignments, etc.
 - We will continue populating the Google spreadsheet with volunteers to start covering some of the readings.  So, if you are interested in any of the upcoming readings (look specifically at Module 1 readings to start with) go to the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing).
 
 - Discussion question: What indicators can we say point to the extent of internationalisation that a company undertakes?
