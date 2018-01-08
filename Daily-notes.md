@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 7 January 2018 @ 09:58CST
+Last update: 8 January 2018 @ 12:38CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -128,6 +128,7 @@ As you scroll down, you will find that most dates will have two sections associa
     - [CentrePort is about more than a highway](http://www.winnipegfreepress.com/opinion/analysis/centreport-is-about-more-than-a-highway-331006931.html)
     - [Trade and transportation corridors initiative](http://www.tc.gc.ca/eng/trade-transportation-corridors-initiative.html)
     - [World Trade Centre Winnipeg](http://www.wtcwinnipeg.com/en/home/mandate/)
+    - [Cheap electricity, cold weather provide 'huge marketing opportunity' for Manitoba to attract bitcoin 'miners'](http://www.cbc.ca/news/canada/manitoba/manitoba-bitcoin-1.4457486)
 - Here are a few external sites that you may also want to peruse before class:
     - [Manitoba Quick Facts: Trade Import and Export Statistics](http://www.gov.mb.ca/trade/export/qfacts/qf_trade.html)
     - [Top exports - Manitoba](http://www.gov.mb.ca/jec/invest/busfacts/economy/top_exports.html)
@@ -160,7 +161,8 @@ As you scroll down, you will find that most dates will have two sections associa
 - Background reading:
     - [Amazon's RFP](https://images-na.ssl-images-amazon.com/images/G/01/Anything/test/images/usa/RFP_3._V516043504_.pdf)
     - Background reading: [Winnipeg's bid for Amazon's HQ2](http://tourismwpg.uberflip.com/i/887850-winnipeg-proposal-amazon-oct2018-highres-300dpi)
-    - Do a quick Google searchfor Amazon HQ2 to get the most up-to-date info on the process.
+    - [The YouTube video](https://www.youtube.com/watch?v=PKwQ7NllIhY)
+    - Do a quick Google search for Amazon HQ2 to get the most up-to-date info on the process.
 
 **CLASS NOTES**
 
