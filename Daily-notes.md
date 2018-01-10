@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 9 January 2018 @ 20:17CST
+Last update: 10 January 2018 @ 13:32CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -92,7 +92,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - We will start to focus a bit on globalisation today, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Some background online articles can be found in the Pinboard links for this Module (see Nexus).
 
-- Readings to be discussed (in the following order) over the next few classes (volunteers needed to lead):
+- Readings to be discussed (in the following order) over the next few classes ([volunteers needed to lead](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing)):
     - International Economics 1: A brief history of modern economic globalization
     - Fundamentals of Global Strategy 2: The globalization of companies and industries
     - The Global Environment Of Business: New Paradigms For International Management
