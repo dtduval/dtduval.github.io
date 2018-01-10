@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: ;8 January 2018
+Last update: 9 January 2018 @ 20:17CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -72,9 +72,14 @@ As you scroll down, you will find that most dates will have two sections associa
 - Discussion question: What indicators can we say point to the extent of internationalisation that a company undertakes?
 - Discussion question: why do firms become MNEs?
 
-- I will introduce Figure 2.2 from the Rugman and Collinson textbook.  It looks at various entry modes.  You don't need to buy this or any textbook, but as I mentioned in the first class, it would be a good idea to have a look at the first few chapters of any international business textbook as it will give you an overview of the salient issues and help set the stage for some of our initial broad discussions.
 
 **CLASS NOTES**
+
+- Great class today.  That should give you some idea of how I would like most class sessions to go: an agenda with respect to topics to discuss, but informal and loose enough to accommodate diversions and digressions.  Well done all.
+- Apologies for mangling vertical and horizontal FDI.  Need to be more careful when referring to my notes!
+- Thanks to those with whom I've already met re: their paper topics.  Good to see you getting a head start.  A gentle reminder to everyone that I really would like to sit down and chat about what topics you are interested in.  Make an appointment to see me via [my website](http://www.dtduval.com).
+- I really do need folks to start putting their name beside readings.  Remember, this counts toward your contribution grade in the course.  All I am looking for is a 10-minute oral presentation/synopsis of what the essence of the reading is.  It would be great if you could also think of one or two discussion questions.  
+- Don't forget: I'd like everyone to do the readings and be ready to contribute (e.g., offer perspectives, ask questions, answer discussion questions, critique, support, link with other concepts/ideas/courses).
 
 
 ---------------------------------------------
@@ -83,9 +88,11 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- I want to follow-up from last class and introduce Figure 2.2 from the Rugman and Collinson textbook.  It looks at various entry modes (which we spoke about last class, but this does so with a twist, albeit an uncomplicated one).  
+
 - We will start to focus a bit on globalisation today, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Some background online articles can be found in the Pinboard links for this Module (see Nexus).
 
-- Readings to be discussed over the next few classes (volunteers needed to lead):
+- Readings to be discussed (in the following order) over the next few classes (volunteers needed to lead):
     - International Economics 1: A brief history of modern economic globalization
     - Fundamentals of Global Strategy 2: The globalization of companies and industries
     - The Global Environment Of Business: New Paradigms For International Management
