@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 10 January 2018 @ 13:32CST
+Last update: 10 January 2018 @ 16:50CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -94,7 +94,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - Readings to be discussed (in the following order) over the next few classes ([volunteers needed to lead](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing)):
     - International Economics 1: A brief history of modern economic globalization
-    - Fundamentals of Global Strategy 2: The globalization of companies and industries
+    - Fundamentals of Global Strategy 2: The globalization of companies and industries (Chapter 2 only)
     - The Global Environment Of Business: New Paradigms For International Management
     - Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
     - Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
