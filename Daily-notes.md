@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 10 January 2018 @ 16:50CST
+Last update: 11 January 2018 @ 18:04CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -88,21 +88,15 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- Waitlist
+- Readings - need volunteers.
 - I want to follow-up from last class and introduce Figure 2.2 from the Rugman and Collinson textbook.  It looks at various entry modes (which we spoke about last class, but this does so with a twist, albeit an uncomplicated one).  
-
 - We will start to focus a bit on globalisation today, and some of the readings (journal articles) for this module are directed at this.  It's a massive topic, highly relevant to how business is undertaken internationally, and in some cases very controversial.  Some background online articles can be found in the Pinboard links for this Module (see Nexus).
 
 - Readings to be discussed (in the following order) over the next few classes ([volunteers needed to lead](https://docs.google.com/spreadsheets/d/1ReG39yWJv5-_fNC0bEEAHVCr825dX3QoiEOxM7E6RSs/edit?usp=sharing)):
     - International Economics 1: A brief history of modern economic globalization
     - Fundamentals of Global Strategy 2: The globalization of companies and industries (Chapter 2 only)
     - The Global Environment Of Business: New Paradigms For International Management
-    - Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
-    - Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
-    - Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
-    - Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
-    - Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
-    - Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
-    - Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
 
 **CLASS NOTES**
 
@@ -113,8 +107,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Continued discussion of readings.
-
+We will likely cover these articles today:
+- Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
+- Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
+- Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
 
 **CLASS NOTES**
 
@@ -152,13 +148,17 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- We will probably still be working through some of the readings listed above for the last class.
+- We will cover the following articles:
+
+- Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
+- Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
+- Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
+- Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
+
 
 **CLASS NOTES**
 
 ---------------------------------------------
-
-## MODULE 2
 
 ## 25 January 2018
 
@@ -188,26 +188,41 @@ As you scroll down, you will find that most dates will have two sections associa
 **CLASS NOTES**
 
 ---------------------------------------------
+## MODULE 2
+
 ## 1 February 2018
+
 **PROCEDURAL NOTES AND AGENDA**
+
+- Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
+- Case study: Working cross culturally: forget business as usual
 
 **CLASS NOTES**
 
 
 ---------------------------------------------
+
 ## 6 February 2018
+
 **PROCEDURAL NOTES AND AGENDA**
 
+- Case study: Amway Korea: Creating Shared Value
+- Park, S.H. and Vanhonacker, W.F. (2007) 'The Challenge for Multinational Corporations in China: Think Local, Act Global', MIT Sloan Managment Review 48(4).
 
 **CLASS NOTES**
 
 
 ---------------------------------------------
-## MODULE 3 (POSSIBLY!)
 
 ## 8 February 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
+- Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
+- Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
+- Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
+- Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
+- Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
 
 **CLASS NOTES**
 
