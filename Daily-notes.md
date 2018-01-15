@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 11 January 2018 @ 18:04CST
+Last update: 15 January 2018 @ 13:31CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -107,14 +107,16 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-We will likely cover these articles today:
+- Thursday's visit - preparations.
+- We will cover these articles today:
 - Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
 - Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
 - Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
 
+- I want to link these to a few concepts/frameworks that seek to explain the nature of why firms undertake FDI.
+
 **CLASS NOTES**
 
-- Coming up: be sure to do some of the background reading (see the procedural notes for the class) for our visit from Diane Grey and Mariette Mulaire on 18 January.
 
 
 ---------------------------------------------
