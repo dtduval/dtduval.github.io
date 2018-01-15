@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 15 January 2018 @ 13:31CST
+Last update: 15 January 2018 @ 15:34CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -108,10 +108,11 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Thursday's visit - preparations.
+- Michael Hohner, the Library Collection Manager for Business and Administration, Economics, and Finance is holding Library Outreach Hours every Wednesday from 12:30-1:30 in the 3rd floor Student Lounge (3BC59).
 - We will cover these articles today:
-- Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
-- Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
-- Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
+    - Morrison, A. and Bouquet, C. (2011) 'Are you giving globalization the right amount of attention?' MIT Sloan Management Review 52(2).
+    - Kerr, W.R. (2016) 'Harnessing the best of globalization', MIT Sloan Management Review 58(1).
+    - Bremner, I (2014) 'The New Rules of Globalization', Harvard Business Review, January-February 2014.
 
 - I want to link these to a few concepts/frameworks that seek to explain the nature of why firms undertake FDI.
 
