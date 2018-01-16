@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 15 January 2018 @ 15:34CST
+Last update: 15 January 2018 @ 20:05CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -174,6 +174,7 @@ As you scroll down, you will find that most dates will have two sections associa
     - Background reading: [Winnipeg's bid for Amazon's HQ2](http://tourismwpg.uberflip.com/i/887850-winnipeg-proposal-amazon-oct2018-highres-300dpi)
     - [The YouTube video](https://www.youtube.com/watch?v=PKwQ7NllIhY)
     - [Economic Development Winnipeg's YouTube Channel](https://www.youtube.com/channel/UCV1z_Rp53WI5gR3UtJJFk3w)
+    - [EDW website](http://www.economicdevelopmentwinnipeg.com)
     - Do a quick Google search for Amazon HQ2 to get the most up-to-date info on the process.
 
 **CLASS NOTES**
