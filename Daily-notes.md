@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 15 January 2018 @ 20:05CST
+Last update: 17 January 2018 @ 05:39CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -118,6 +118,8 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **CLASS NOTES**
 
+- Great discussions and thanks to those who presented today.  We are starting to get into our groove as a class.
+- Thursday should be very interesting.  Again, strongly encourage you to do some background prep on our guests.
 
 
 ---------------------------------------------
