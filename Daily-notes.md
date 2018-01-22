@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 17 January 2018 @ 05:39CST
+Last update: 22 January 2018 @ 06:44CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -153,9 +153,12 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- To the student who bumped into Mariette Mulaire at the Shopper's Drug Mart recently: please email me as she would like your contact details.
+- Note some background articles/readings listed in the 30 January section below re: Barry Rempel's visit next week.
+
 - We will cover the following articles:
 
-- Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for mulitnationals', MIT Sloan Management Review (Summer 2015)
+- Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for multinationals', MIT Sloan Management Review (Summer 2015)
 - Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
 - Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
 - Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
@@ -183,13 +186,20 @@ As you scroll down, you will find that most dates will have two sections associa
 
 
 ---------------------------------------------
+
 ## 30 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
 - Visit by Barry Rempel, CEO, Winnipeg Airports Authority
 - Background reading:
     - [WAA publication and stats](http://www.waa.ca/waa/about/publications)
-    - We may end up discussion the CTA Review document, which can be found [here](http://www.tc.gc.ca/eng/ctareview2014/canada-transportation-act-review.html)
+    - We may end up discussing the air chapters/sections of the CTA Review document, which can be found [here](http://www.tc.gc.ca/eng/ctareview2014/canada-transportation-act-review.html).
+    - A big issue in Canada right now is airport 'privatisation'.  As I'm sure Barry will point out, it isn't really privatisation.  For background, here are some quick reads so you get a sense of what is happening:
+        - [A CD Howe brief report in support](https://cdhowe.org/sites/default/files/attachments/research_papers/mixed/E-Brief_253_0.pdf)
+        - [Video from BNN re: Fitch report on privatisation](https://www.bnn.ca/video/privatization-could-unlock-value-in-canada-s-airports-fitch-report~1150984)
+        - [Liberals’ drive to privatize Canadian airports lifts off](https://www.thestar.com/news/canada/2017/03/06/liberals-drive-to-privatize-canadian-airports-lifts-off.html)
+        - [Driving Inclusive Growth: spurring productivity and competitiveness in Canada: Report of the Standing Committee on Finance, December 2017](http://www.ourcommons.ca/Content/Committee/421/FINA/Reports/RP9312006/finarp21/finarp21-e.pdf)(Page 77 outlines the issues as presented to the Committee, and Recommendations 65 and 66 on page 90 outline the Committee's recommendation).
 
 **CLASS NOTES**
 
