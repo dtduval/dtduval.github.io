@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 22 January 2018 @ 06:57CST
+Last update: 22 January 2018 @ 11:53CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -182,6 +182,7 @@ As you scroll down, you will find that most dates will have two sections associa
     - [Economic Development Winnipeg's YouTube Channel](https://www.youtube.com/channel/UCV1z_Rp53WI5gR3UtJJFk3w)
     - [EDW website](http://www.economicdevelopmentwinnipeg.com)
     - Do a quick Google search for Amazon HQ2 to get the most up-to-date info on the process.
+    - [Conference Board of Canada - Metropolitan Outlook 2: Economic Insights Into 15 Canadian Metropolitan Economies](https://whitbychamber.org/wp-content/uploads/2017-ConferenceBoard-economicgrowthprojections.pdf)
 
 **CLASS NOTES**
 
