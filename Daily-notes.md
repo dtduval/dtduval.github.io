@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 22 January 2018 @ 06:44CST
+Last update: 22 January 2018 @ 06:57CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -155,6 +155,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - To the student who bumped into Mariette Mulaire at the Shopper's Drug Mart recently: please email me as she would like your contact details.
 - Note some background articles/readings listed in the 30 January section below re: Barry Rempel's visit next week.
+- For those who cannot make my office hours to discuss research paper topics (sign up at [www.dtduval.com](http://www.dtduval.com)), please email me to arrange a chat via telephone/Skype.
 
 - We will cover the following articles:
 
