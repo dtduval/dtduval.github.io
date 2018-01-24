@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 23 January 2018 @ 20:33CST
+Last update: 24 January 2018 @ 17:43CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -171,6 +171,8 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 25 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
+- Just a note on finding sources and articles for the assignments.  You can use [this link](http://cufts2.lib.sfu.ca/CRDB/MWUC/resource/6456) to connect to Google Scholar via the UWinnipeg library system.  From there, you can conduct your search and, if we have that article available through the UW library system, it will provide you with a link.  Very quick and easy.
 
 - Visit by Greg Dandewich, Senior Vice President, Economic Development Winnipeg
 
