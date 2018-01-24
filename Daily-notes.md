@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 22 January 2018 @ 17:15CST
+Last update: 23 January 2018 @ 20:33CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -153,7 +153,6 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- To the student who bumped into Mariette Mulaire at the Shopper's Drug Mart recently: please email me as she would like your contact details.
 - Note some background articles/readings listed in the 30 January section below re: Barry Rempel's visit next week.
 - For those who cannot make my office hours to discuss research paper topics (sign up at [www.dtduval.com](http://www.dtduval.com)), please email me to arrange a chat via telephone/Skype.
 
@@ -161,11 +160,11 @@ As you scroll down, you will find that most dates will have two sections associa
 
 - Santos, J.F.P. and Williamson, P.J. (2015) 'The new mission for multinationals', MIT Sloan Management Review (Summer 2015)
 - Sledge, S. (2006) "Does Globalization Affect Multinational Corporation Performance?", Journal of Transnational Management 11(2):77–95.
-- Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
-- Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
-
 
 **CLASS NOTES**
+
+- Good presentations today on some rather thick material.  The Sledge article is one of my favourites for the reasons I mentioned in class.
+- We will pick up where we left off on 1 February.  I'm conscious of the fact that we are slightly behind, but I'm loving the discussions.
 
 ---------------------------------------------
 
@@ -213,8 +212,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
-- Case study: Working cross culturally: forget business as usual
+- Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
+- Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
+- One Belt, One Road.
+
 
 **CLASS NOTES**
 
@@ -225,8 +226,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Case study: Amway Korea: Creating Shared Value
-- Park, S.H. and Vanhonacker, W.F. (2007) 'The Challenge for Multinational Corporations in China: Think Local, Act Global', MIT Sloan Managment Review 48(4).
+- Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
+- Case study: Working cross culturally: forget business as usual
+
+
 
 **CLASS NOTES**
 
@@ -237,11 +240,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
-- Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
-- Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
-- Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
-- Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
+- Case study: Amway Korea: Creating Shared Value
+- Park, S.H. and Vanhonacker, W.F. (2007) 'The Challenge for Multinational Corporations in China: Think Local, Act Global', MIT Sloan Managment Review 48(4).
+
+
 
 **CLASS NOTES**
 
@@ -249,6 +251,13 @@ As you scroll down, you will find that most dates will have two sections associa
 ---------------------------------------------
 ## 13 February 2018
 **PROCEDURAL NOTES AND AGENDA**
+
+- Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
+- Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
+- Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
+- Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
+- Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
+
 
 **CLASS NOTES**
 
