@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 25 January 2018 @ 06:50CST
+Last update: 25 January 2018 @ 09:41CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -176,6 +176,8 @@ As you scroll down, you will find that most dates will have two sections associa
 - Most folks by now have looked at the expectations for each of the assignments (the article analyses and the research paper), but if not you'll find the details in the [course outline](https://www.dropbox.com/s/7jnxeufxkjyta8k/Course-Outline-Winter-2018.pdf?dl=0).
 
 - Visit by Greg Dandewich, Senior Vice President, Economic Development Winnipeg
+
+- [Here are some slides that Greg wanted to share with us.](https://www.dropbox.com/s/sc3i0g9bvxrihb4/G_Dandewich.pdf?dl=0)
 
 - Background reading:
     - [Amazon's RFP](https://images-na.ssl-images-amazon.com/images/G/01/Anything/test/images/usa/RFP_3._V516043504_.pdf)
