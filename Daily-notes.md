@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 25 January 2018 @ 09:41CST
+Last update: 28 January 2018 @ 20:45CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -191,12 +191,15 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **CLASS NOTES**
 
+- Great class.  I saw Greg the next day and he was quite pleased with the questions and engagement.
 
 ---------------------------------------------
 
 ## 30 January 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
+- I would suggest strongly that *everyone* access any textbook on international business and use it as background reading to supplement both the course material as well as for your papers (the topics for which are coming along great, by the way!).  As you know, I have not assigned a textbook for this class.  That said, textbooks can be *invaluable* for background knowledge that supports, in our case, classroom discussions.  I've placed two such books on two-hour reserve at the library, but note there are several others that are available as ebooks.   
 
 - Visit by Barry Rempel, CEO, Winnipeg Airports Authority
 - Background reading:
@@ -211,7 +214,6 @@ As you scroll down, you will find that most dates will have two sections associa
 **CLASS NOTES**
 
 ---------------------------------------------
-## MODULE 2
 
 ## 1 February 2018
 
