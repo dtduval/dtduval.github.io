@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 28 January 2018 @ 20:45CST
+Last update: 29 January 2018 @ 07:09CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -200,6 +200,7 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - I would suggest strongly that *everyone* access any textbook on international business and use it as background reading to supplement both the course material as well as for your papers (the topics for which are coming along great, by the way!).  As you know, I have not assigned a textbook for this class.  That said, textbooks can be *invaluable* for background knowledge that supports, in our case, classroom discussions.  I've placed two such books on two-hour reserve at the library, but note there are several others that are available as ebooks.   
+- On the subject of your research papers, just a reminder that you can [register your topic on the Google spreadsheet](https://docs.google.com/spreadsheets/d/1piETwGKGkrYe4LuPUn97E8xlTqQdZkUAjGMEOd7kv-c/edit?usp=sharing).  This helps in two ways: (1) it helps me track topics and (2) you may find that someone is researching/writing about a topic that is similar to yours, in which case it may be efficient to share resources.
 
 - Visit by Barry Rempel, CEO, Winnipeg Airports Authority
 - Background reading:
