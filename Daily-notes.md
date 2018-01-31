@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 29 January 2018 @ 07:09CST
+Last update: 31 January 2018 @ 06:12CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -220,9 +220,12 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
-- Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
-- One Belt, One Road.
+- It's getting close to the submission date for your article reviews.  Details on what is required can be found in the course outline.  The articles should be 'academic' in that they should be peer reviewed; most of the international business journals found through our library system meet this criteria (e.g., Journal of International Business studies).  That said, if you would like me to confirm whether the one or even all three of your articles is suitable for this assignment, email me the .pdf of each article (not the link, but the full article that you have downloaded).
+
+- Today, let's discuss the following readings/topics:
+    - Brainard, S.L. (1997). "An Empirical Assessment of the Proximity-Concentration Trade-Off between Multinational Sales and Trade", American Economic Review 87(4):520–544.
+    - Kandogan, Y. (2014) 'The effect of foreign trade and investment liberalization on spatial concentration of economic activity', International Business Review 23(3):648-659
+    - One Belt, One Road.
 
 
 **CLASS NOTES**
