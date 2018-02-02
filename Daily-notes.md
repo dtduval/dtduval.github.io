@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 31 January 2018 @ 06:12CST
+Last update: 1 February 2018 @ 18:16CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -237,10 +237,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
-- Case study: Working cross culturally: forget business as usual
-
-
+- We'll start with Amanda leading us on a discussion about One Belt, One Road.  Please do a search online about this to get a sense of what it is about.  It's actually fairly impressive.
+- I'd then like to focus on:
+    - Case study (from the [Ivey reader](https://www.iveycases.com/CoursepackView.aspx?id=12335)): Working cross culturally: forget business as usual
+    - Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
 
 **CLASS NOTES**
 
