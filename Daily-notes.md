@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 6 February 2018 @ 17:09CST
+Last update: 6 February 2018 @ 17:29CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -250,6 +250,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **CLASS NOTES**
 
+- Good session today.  Good to see a few folks took the opportunity to investigate One Belt, One Road.  
 
 ---------------------------------------------
 
@@ -257,22 +258,22 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-We are headstrong into Module 2 at this point.
+- As I mentioned last class, I've started to map out a rough approximation of how our readings could go over the next while.  Scroll down and you'll see what I mean.  We're not as far behind as I thought, which is good.  
 
-I'd like to start with these two articles:
+- As of today, we are headstrong into Module 2 at this point.
+
+- I'd like to start with these two articles:
     - Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
     - Park, S.H. and Vanhonacker, W.F. (2007) 'The Challenge for Multinational Corporations in China: Think Local, Act Global', MIT Sloan Managment Review 48(4).
 
-If we have time, we can then move into the following (in this order), so please be ready if you have volunteered to present these:
+- If we have time, we can then move into the following (in this order), so please be ready if you have volunteered to present these:
     - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
     - Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
     - Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
     - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
     - Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
 
-
-
-- Case study: Amway Korea: Creating Shared Value
+- At this point, I'm thinking that we will not be discussing the case study titled _Amway Korea: Creating Shared Value_.
 
 **CLASS NOTES**
 
@@ -282,7 +283,7 @@ If we have time, we can then move into the following (in this order), so please 
 
 **PROCEDURAL NOTES AND AGENDA**
 
-We will continue addressing the following, depending on how far we got in the last class:
+- We will continue addressing the following, depending on how far we got in the last class:
     - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
     - Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
     - Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
@@ -296,7 +297,7 @@ We will continue addressing the following, depending on how far we got in the la
 ## 15 February 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-I suspect we will be working our way through the following list:
+- I suspect we will be working our way through the following list:
     - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
     - Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
     - Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
@@ -316,6 +317,16 @@ I suspect we will be working our way through the following list:
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- We could be working on Module 3 at this point.
+
+- We will run through the following readings from Module 3:
+    - Note on International Trade Finance
+    - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
+    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
+    - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
+    - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
+    - Farewell to the Age of Free Trade
+    - The Humble Hero
 
 **CLASS NOTES**
 
@@ -326,17 +337,32 @@ I suspect we will be working our way through the following list:
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- We will likely still be working our way through the following readings from Module 3:
+    - Note on International Trade Finance
+    - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
+    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
+    - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
+    - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
+    - Farewell to the Age of Free Trade
+    - The Humble Hero
 
 **CLASS NOTES**
 
 
 ---------------------------------------------
-## MODULE 4
 
 ## 6 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- We could be starting in on Module 4 at this point, or we could still be finishing up Module 3.
+
+- Assuming we ARE starting in on Module 4, let's start with the following:
+    - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
+    - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
+    - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
+    - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131.
+    - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043.
 
 **CLASS NOTES**
 
@@ -346,6 +372,7 @@ I suspect we will be working our way through the following list:
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- By NOW we should be headstrong into Module 4, which means diving into the cases from the Ivey reader.  I'll update as we get closer.
 
 **CLASS NOTES**
 
