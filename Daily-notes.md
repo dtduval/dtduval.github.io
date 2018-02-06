@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 1 February 2018 @ 18:16CST
+Last update: 6 February 2018 @ 10:22CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -240,6 +240,14 @@ As you scroll down, you will find that most dates will have two sections associa
 - We'll start with Amanda leading us on a discussion about One Belt, One Road.  Please do a search online about this to get a sense of what it is about.  It's actually fairly impressive.
 - I'd then like to focus on:
     - Case study (from the [Ivey reader](https://www.iveycases.com/CoursepackView.aspx?id=12335)): Working cross culturally: forget business as usual
+    - Questions to be considered:
+        - What challenges did Sophia initial face?
+        - Before the first dinner, what did she do well?  Where did she fall short?
+        - Assess Blankenship's role/power/influence
+        - Assess the role of Vujevic - colleague or manipulator?
+        - What went wrong at the first dinner?  How did she handle it?
+        - She ultimately went with a local solution: why?    
+
     - Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
 
 **CLASS NOTES**
