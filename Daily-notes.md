@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 6 February 2018 @ 17:29CST
+Last update: 6 February 2018 @ 19:17CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -265,9 +265,9 @@ As you scroll down, you will find that most dates will have two sections associa
 - I'd like to start with these two articles:
     - Levy et al (2010) 'On the Rocky Road to Strong Global Culture', MIT Sloan Management Review 51(4).
     - Park, S.H. and Vanhonacker, W.F. (2007) 'The Challenge for Multinational Corporations in China: Think Local, Act Global', MIT Sloan Managment Review 48(4).
+    - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
 
 - If we have time, we can then move into the following (in this order), so please be ready if you have volunteered to present these:
-    - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
     - Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
     - Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
     - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
