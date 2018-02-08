@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 6 February 2018 @ 19:17CST
+Last update: 7 February 2018 @ 18:53CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -284,7 +284,6 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - We will continue addressing the following, depending on how far we got in the last class:
-    - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
     - Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
     - Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
     - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
@@ -297,12 +296,19 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 15 February 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- I suspect we will be working our way through the following list:
-    - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
-    - Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
-    - Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
-    - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
-    - Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
+- We could be starting on Module 3 at this point.
+
+- As a bridge from Modules 1/2 to Module 3, I'd like to look at:
+    - International Economics 3: Theories of International Trade (from the Ivey course pack)
+
+- We will run through the following readings from Module 3:
+    - Note on International Trade Finance
+    - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
+    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
+    - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
+    - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
+    - Farewell to the Age of Free Trade
+    - The Humble Hero
 
 
 **CLASS NOTES**
@@ -317,16 +323,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- We could be working on Module 3 at this point.
 
-- We will run through the following readings from Module 3:
-    - Note on International Trade Finance
-    - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
-    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
-    - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
-    - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
-    - Farewell to the Age of Free Trade
-    - The Humble Hero
 
 **CLASS NOTES**
 
