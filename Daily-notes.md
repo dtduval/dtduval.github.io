@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 12 February 2018 @ 07:31CST
+Last update: 12 February 2018 @ 11:53CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -298,19 +298,8 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 15 February 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- We could be continuing to focus on articles and discussion centering around Module 2 (see the list from the last class).
-- If not, we will start in on Module 3.
-- As a bridge from Modules 1 and 2 into Module 3, I'd like to look at:
-    - International Economics 3: Theories of International Trade (from the Ivey course pack)
-- We will then run through the following readings from Module 3:
-    - Note on International Trade Finance
-    - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
-    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
-    - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
-    - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
-    - Farewell to the Age of Free Trade
-    - The Humble Hero
-
+- Unfortunately, I will be at a funeral today as a dear old Aunt passed away on 10 February.  Sorry about this.
+- If we need to, we will extend the term and make use of a make-up class session on 3 April 2018 at 18:00.  I have a room booked, but I may change it so stay tuned.
 
 **CLASS NOTES**
 
@@ -325,12 +314,11 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 
-- We should be more or less starting on Module 3 at this point.
-
+- We could be continuing to focus on articles and discussion centering around Module 2 (see the list from the last class).
+- If not, we will start in on Module 3.
 - As a bridge from Modules 1 and 2 into Module 3, I'd like to look at:
     - International Economics 3: Theories of International Trade (from the Ivey course pack)
-
-- We will run through the following readings from Module 3:
+- We will then run through the following readings from Module 3:
     - Note on International Trade Finance
     - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
     - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
@@ -338,6 +326,7 @@ As you scroll down, you will find that most dates will have two sections associa
     - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
     - Farewell to the Age of Free Trade
     - The Humble Hero
+
 
 **CLASS NOTES**
 
