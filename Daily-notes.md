@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 12 February 2018 @ 11:53CST
+Last update: 14 February 2018 @ 06:49CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -288,11 +288,10 @@ As you scroll down, you will find that most dates will have two sections associa
     - Selmier, W.T. and Oh, C.H. (2012) ‘International business complexity and the internationalization of languages’, Business Horizons 55;189-200.
     - Meyer, Erin (2015) "When Culture Doesn't Translate", Harvard Business Review, October 2015.
     - Peleckis, K. (2014) ‘International business negotiations: innovation, negotiation team, preparation’, Procedia - Social and Behavioral Sciences 110:64-73.
-    - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
-    - Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
-
 
 **CLASS NOTES**
+
+- This was a very interesting discussion, so thanks to those who contributed.  
 
 ---------------------------------------------
 ## 15 February 2018
@@ -313,10 +312,11 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- Two more articles from Module 2:
+   - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
+   - Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
 
-- We could be continuing to focus on articles and discussion centering around Module 2 (see the list from the last class).
-- If not, we will start in on Module 3.
-- As a bridge from Modules 1 and 2 into Module 3, I'd like to look at:
+- We will then move into Module 3.  As a bridge from the previous two modules, I'd like to look at:
     - International Economics 3: Theories of International Trade (from the Ivey course pack)
 - We will then run through the following readings from Module 3:
     - Note on International Trade Finance
