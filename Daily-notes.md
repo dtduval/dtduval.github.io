@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 14 February 2018 @ 06:49CST
+Last update: 25 February 2018 @ 16:11CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -355,14 +355,16 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- We could be starting in on Module 4 at this point, or we could still be finishing up Module 3.
+- We will likely still be working our way through the following readings from Module 3:
+    - Note on International Trade Finance
+    - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
+    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
+    - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
+    - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
+    - Farewell to the Age of Free Trade
+    - The Humble Hero
 
-- Assuming we ARE starting in on Module 4, let's start with the following:
-    - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
-    - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
-    - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
-    - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131.
-    - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043.
+
 
 **CLASS NOTES**
 
@@ -372,7 +374,13 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- By NOW we should be headstrong into Module 4, which means diving into the cases from the Ivey reader.  I'll update as we get closer.
+- Assuming we ARE starting in on Module 4, let's start with the following:
+    - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
+    - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
+    - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
+    - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131.
+    - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043.
+
 
 **CLASS NOTES**
 
@@ -382,6 +390,16 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- Here is the order in which I would like to tackle the cases associated with Module 4:
+     - The Espresso Lane to Global Markets
+     - Ruth's Chris: The High Stakes of International Expansion (market entry strategy)
+     - Cameron’s Auto Parts (A and B)
+     - Lego Group: An Outsourcing Journey
+     - Netflix Inc.: Streaming Across Borders and Into Original Content (A and B)
+     - Walmart’s African Expansion
+     - Samsung Galaxy Note 7 debacle
+     - Orlando International Airport: Landing International Airline Business
+     - AirAsia X: Can the Low Cost Model Go Long Haul?
 
 **CLASS NOTES**
 
@@ -435,7 +453,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 
 ---------------------------------------------
-## OVERFLOW CLASS (TO BE SCHEDULED)
+## OVERFLOW CLASS (3 April 2018 from 18:00 to 20:00 in Centennial Hall: 4C60)
 
 **PROCEDURAL NOTES AND AGENDA**
 
