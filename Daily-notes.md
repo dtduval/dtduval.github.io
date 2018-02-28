@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 27 February 2018 @ 13:50CST
+Last update: 27 February 2018 @ 20:10CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -313,9 +313,23 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Two more articles from Module 2:
-   - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
    - Williams, S.L. (2011) ‘Engaging values in international business practice’, Business Horizons 54:315-324.
-- We will then move into Module 3.  As a bridge from the previous two modules, I'd like to look at:
+
+
+
+**CLASS NOTES**
+
+
+---------------------------------------------
+
+## 1 March 2018
+
+**PROCEDURAL NOTES AND AGENDA**
+
+- One more article to finish up:
+    - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
+
+- And then we will then move into Module 3.  As a bridge from the previous two modules, I'd like to look at:
     - International Economics 3: Theories of International Trade (from the Ivey course pack)
 
 - We will then run through the following readings from Module 3:
@@ -333,11 +347,11 @@ As you scroll down, you will find that most dates will have two sections associa
 
 ---------------------------------------------
 
-## 1 March 2018
+## 6 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- We will likely still be working our way through the following readings from Module 3:
+- Likely still on Module 3:
     - Note on International Trade Finance
     - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
     - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
@@ -346,12 +360,14 @@ As you scroll down, you will find that most dates will have two sections associa
     - Farewell to the Age of Free Trade
     - The Humble Hero
 
+
+
+
 **CLASS NOTES**
 
 
 ---------------------------------------------
-
-## 6 March 2018
+## 8 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
@@ -368,41 +384,28 @@ As you scroll down, you will find that most dates will have two sections associa
 
 
 ---------------------------------------------
-## 8 March 2018
+## 13 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
+
+- Likely more Module baseline reading:
+    - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
+    - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
+    - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
+    - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131.
+    - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043.
 
 - The Espresso Lane to Global Markets
 
 **CLASS NOTES**
 
-
 ---------------------------------------------
-## 13 March 2018
-
-**PROCEDURAL NOTES AND AGENDA**
-
-- Ruth's Chris: The High Stakes of International Expansion (market entry strategy)
-
-
-
-
-
-
-
-
-**CLASS NOTES**
-
-
----------------------------------------------
-
 
 ## 15 March 2018
 
 **PROCEDURAL NOTES AND AGENDA**
 
 - Cameron’s Auto Parts (A and B)
-
 
 **CLASS NOTES**
 
@@ -455,9 +458,8 @@ As you scroll down, you will find that most dates will have two sections associa
 **CLASS NOTES**
 
 
-
 ---------------------------------------------
-## OVERFLOW CLASS IF NEEDED (3 April 2018 from 18:00 to 20:00 in Centennial Hall: 4C60)
+## OVERFLOW CLASS (3 April 2018 from 18:00 to 20:00 in Centennial Hall: 4C60)
 
 **PROCEDURAL NOTES AND AGENDA**
 
