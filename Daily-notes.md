@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 27 February 2018 @ 20:10CST
+Last update: 1 March 2018 @ 10:10CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -326,20 +326,11 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- One more article to finish up:
+- Readings I would like to cover today:
     - Apetrei, A., Kureshi, N.I. and Horodnic, I.A. (2015) ‘When culture shapes international business’, Journal of Business Research 68:1519-1521.
-
-- And then we will then move into Module 3.  As a bridge from the previous two modules, I'd like to look at:
     - International Economics 3: Theories of International Trade (from the Ivey course pack)
-
-- We will then run through the following readings from Module 3:
     - Note on International Trade Finance
     - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
-    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
-    - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
-    - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
-    - Farewell to the Age of Free Trade
-    - The Humble Hero
 
 
 **CLASS NOTES**
@@ -351,14 +342,13 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Likely still on Module 3:
-    - Note on International Trade Finance
-    - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
+- Readings I would like to cover today:
     - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
     - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
     - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
     - Farewell to the Age of Free Trade
     - The Humble Hero
+
 
 
 
@@ -388,7 +378,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Likely more Module baseline reading:
+- Likely more Module 4 baseline reading:
     - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
     - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
     - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
