@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 1 March 2018 @ 10:10CST
+Last update: 1 March 2018 @ 20:43CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -332,9 +332,7 @@ As you scroll down, you will find that most dates will have two sections associa
     - Note on International Trade Finance
     - Armstrong, H. and Read, R. (2006) "Geographical "handicaps" and small states: Some implications for the Pacific from a global perspective", Asia Pacific Viewpoint 47(1):79–92.
 
-
 **CLASS NOTES**
-
 
 ---------------------------------------------
 
@@ -349,10 +347,6 @@ As you scroll down, you will find that most dates will have two sections associa
     - Farewell to the Age of Free Trade
     - The Humble Hero
 
-
-
-
-
 **CLASS NOTES**
 
 
@@ -361,8 +355,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Module 4.
-- Let's start with the following:
+- Module 4.  Let's start by working our way through the following readings:
     - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
     - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
     - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
@@ -378,14 +371,12 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Likely more Module 4 baseline reading:
+- Likely working our way through the following Module 4 readings:
     - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
     - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
     - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
     - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131.
     - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043.
-
-- The Espresso Lane to Global Markets
 
 **CLASS NOTES**
 
@@ -404,7 +395,7 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 20 March 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- Lego Group: An Outsourcing Journey
+- The Espresso Lane to Global Markets
 
 **CLASS NOTES**
 
