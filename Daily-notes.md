@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 1 March 2018 @ 20:43CST
+Last update: 6 March 2018 @ 17:12CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -341,7 +341,6 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Readings I would like to cover today:
-    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
     - Song, G. and Yuan, W. J. (2012) "China’s Free Trade Agreement Strategies", The Washington Quarterly 35(4):107–119. (relates to TPP)
     - Hummels, D. (2007) "[Transportation Costs and International Trade in the Second Era of Globalization](http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.3.131) (should be a complimentary download)", *Journal of Economic Perspectives* 21(3):131-154".
     - Farewell to the Age of Free Trade
@@ -355,7 +354,10 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Module 4.  Let's start by working our way through the following readings:
+- One more from Module 3:
+    - Sally, R. (2004) "Free trade: The next 50 years", South African Journal of International Affairs 11(2):11–19.
+
+- Then Module 4:
     - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
     - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
     - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
