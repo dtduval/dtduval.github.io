@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 6 March 2018 @ 17:12CST
+Last update: 9 March 2018 @ 07:00CST
 
 ---------------------------------------------
 ---------------------------------------------
@@ -360,9 +360,6 @@ As you scroll down, you will find that most dates will have two sections associa
 - Then Module 4:
     - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
     - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
-    - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
-    - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131.
-    - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043.
 
 
 **CLASS NOTES**
@@ -373,14 +370,14 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Likely working our way through the following Module 4 readings:
-    - Fundamentals Of Global Strategy 5: Target Markets And Modes Of Entry
-    - Sugiura, H. (1990) 'How Honda localizes its global strategy', MIT Sloan Management Review, 32(1)
-    - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1).
-    - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131.
-    - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043.
+- Three more:
+    - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1). (Katya)
+    - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131. (Keith)
+    - Makino, S., Isobe, T., and Chan, C. (2004) "Does country matter?", Strategic Management Journal: 25(10):1027–1043. (Talia)
 
 **CLASS NOTES**
+
+- [This is the article Alex mentioned](http://business.financialpost.com/commodities/energy/too-hungry-to-pump-oil-pdvsa-crews-skip-work-to-hunt-for-food) - thanks Alex!
 
 ---------------------------------------------
 
@@ -389,6 +386,18 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Cameron’s Auto Parts (A and B)
+- Questions to consider (Part A):
+    - Was diversification the right move?
+    - What can take away from the financials?
+    - Mr Ellis was concerned - did he have a reason to be?
+    - Should Cameron have licensed or export?  
+    - Was McTaggart the right choice?  Why or why not?
+    - What about the royalty rate?  Reasonable?
+- Questions to consider (Part B):
+    - What do you think of McTaggart now?
+    - Does the Australia strategy make sense?
+    - What about Michelard?  Make sense?
+    - What should Cameron do about the EU?
 
 **CLASS NOTES**
 
