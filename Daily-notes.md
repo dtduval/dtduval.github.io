@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 9 March 2018 @ 07:00CST
+Last update: 12 March 2018 @ 12:01CDT
 
 ---------------------------------------------
 ---------------------------------------------
@@ -370,6 +370,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
+- I've uploaded to Nexus (under Module 4) a more complete overview of the economic integration/national responsiveness framework.
 - Three more:
     - Collis, D. (2011) 'Should you have a global strategy?', MIT Sloan Management Review 53(1). (Katya)
     - Mehanna, R.-A. (2008) "Strategic Patterns in International Business: Product Differentiation or Complementarity?", Journal of Transnational Management 13(2):112–131. (Keith)
