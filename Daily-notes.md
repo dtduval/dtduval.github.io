@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 12 March 2018 @ 12:01CDT
+Last update: 17 March 2018 @ 06:11CDT
 
 ---------------------------------------------
 ---------------------------------------------
@@ -364,6 +364,8 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **CLASS NOTES**
 
+- [This is the article Alex mentioned](http://business.financialpost.com/commodities/energy/too-hungry-to-pump-oil-pdvsa-crews-skip-work-to-hunt-for-food) - thanks Alex!
+
 
 ---------------------------------------------
 ## 13 March 2018
@@ -378,7 +380,6 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **CLASS NOTES**
 
-- [This is the article Alex mentioned](http://business.financialpost.com/commodities/energy/too-hungry-to-pump-oil-pdvsa-crews-skip-work-to-hunt-for-food) - thanks Alex!
 
 ---------------------------------------------
 
@@ -407,7 +408,7 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 20 March 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- The Espresso Lane to Global Markets
+- Case: The Espresso Lane to Global Markets
 
 **CLASS NOTES**
 
@@ -418,7 +419,7 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Netflix Inc.: Streaming Across Borders and Into Original Content (A and B)
+- Case: Netflix Inc.: Streaming Across Borders and Into Original Content (A and B)
 
 **CLASS NOTES**
 
@@ -427,7 +428,7 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 27 March 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- Walmart’s African Expansion
+- Case: Walmart’s African Expansion
 
 **CLASS NOTES**
 
@@ -436,7 +437,7 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 29 March 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- Samsung Galaxy Note 7 debacle
+- Case: Samsung Galaxy Note 7 debacle
 
 **CLASS NOTES**
 
@@ -445,7 +446,7 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 3 April 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- Orlando International Airport: Landing International Airline Business
+- Case: Orlando International Airport: Landing International Airline Business
 
 
 **CLASS NOTES**
@@ -456,6 +457,6 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- AirAsia X: Can the Low Cost Model Go Long Haul?
+- Case: AirAsia X: Can the Low Cost Model Go Long Haul?
 
 **CLASS NOTES**
