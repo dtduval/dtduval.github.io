@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 19 March 2018 @ 10:04CDT
+Last update: 19 March 2018 @ 10:16CDT
 
 ---------------------------------------------
 ---------------------------------------------
@@ -428,6 +428,9 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Case: Netflix Inc.: Streaming Across Borders and Into Original Content (A and B)
+- Questions for consideration:
+    - Conduct a SWOT analysis: using these, was Netflix spending too much money to enter highly competitive markets?
+    - Run a (CAGE analysis using this tool)[https://ghemawat.com/cage] for two countries mentioned in the case, ideally with one being the United States.  One group should definitely do Brazil and another should do China, but others are possible.
 
 **CLASS NOTES**
 
