@@ -430,7 +430,7 @@ As you scroll down, you will find that most dates will have two sections associa
 - Case: Netflix Inc.: Streaming Across Borders and Into Original Content (A and B)
 - Questions for consideration:
     - Conduct a SWOT analysis: using these, was Netflix spending too much money to enter highly competitive markets?
-    - Run a CAGE analysis using this tool for two countries mentioned in the case, ideally with one being the United States.  One group should definitely do Brazil and another should do China, but others are possible.
+    - Run a (CAGE analysis)(https://saylordotorg.github.io/text_international-business/s12-04-cage-analysis.html) for two countries mentioned in the case, ideally with one being the United States.  One group should definitely do Brazil and another should do China, but others are possible.
 
 **CLASS NOTES**
 
@@ -442,7 +442,7 @@ As you scroll down, you will find that most dates will have two sections associa
 - Case: Walmart’s African Expansion
 - Questions:
     - What is Walmart's general strategy/approach?
-    - Conduct a CAGE analysis using this tool between South Africa and the United States.   What conclusions can you draw?
+    - Conduct a (CAGE analysis)(https://saylordotorg.github.io/text_international-business/s12-04-cage-analysis.html) between South Africa and the United States.   What conclusions can you draw?
     - Conduct an OLI analysis (ownership, location, internalisation).  What conclusions can you draw?
     - Conduct a Five Contexts Framework analysis by considering: political/social systems, openness, product markets, labour markets and capital markets.  What would you conclude?
 
