@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 17 March 2018 @ 06:11CDT
+Last update: 19 March 2018 @ 10:04CDT
 
 ---------------------------------------------
 ---------------------------------------------
@@ -409,6 +409,14 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Case: The Espresso Lane to Global Markets
+    - Should we all bring a coffee to this class? :)
+- Questions for consideration:
+    - If you ran a SWOT for Illy, what would it show?
+    - How would you assess market attractiveness?
+    - How might you calculate Illy's competitive position (i.e., market share) given Exhibit 3?
+    - How attractive is Japan as a market?  Is it a good idea?
+    - We will run a McKinsey Matrix and then decide which countries make sense for expansion.
+    - What mode of entry would you recommend?
 
 **CLASS NOTES**
 
