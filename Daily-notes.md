@@ -457,7 +457,9 @@ As you scroll down, you will find that most dates will have two sections associa
 - Case: Samsung Galaxy Note 7 debacle
 - Questions:
     - What are Samsung's key strengths?
-    - What factors do you think contributed to the internal issues at Samsung
+    - What factors do you think contributed to the internal issues at Samsung?
+    - What other communication strategies could have been implemented?
+    - What was the good and the bad with the recall strategy?
 
 **CLASS NOTES**
 
