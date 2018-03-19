@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 19 March 2018 @ 10:16CDT
+Last update: 19 March 2018 @ 10:21CDT
 
 ---------------------------------------------
 ---------------------------------------------
@@ -440,8 +440,14 @@ As you scroll down, you will find that most dates will have two sections associa
 **PROCEDURAL NOTES AND AGENDA**
 
 - Case: Walmart’s African Expansion
+- Questions:
+    - What is Walmart's general strategy/approach?
+    - Conduct a (CAGE analysis using this tool)[https://ghemawat.com/cage] between South Africa and the United States.   What conclusions can you draw?
+    - Conduct an OLI analysis (ownership, location, internalisation).  What conclusions can you draw?
+    - Conduct a Five Contexts Framework analysis by considering: political/social systems, openness, product markets, labour markets and capital markets.  What would you conclude?
 
 **CLASS NOTES**
+
 
 
 ---------------------------------------------
