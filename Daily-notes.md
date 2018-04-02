@@ -4,7 +4,7 @@ title: Daily Notes
 permalink: /Daily-Notes/
 ---
 
-Last update: 19 March 2018 @ 10:21CDT
+Last update: 1 April 2018 @ 20:01CDT
 
 ---------------------------------------------
 ---------------------------------------------
@@ -468,8 +468,12 @@ As you scroll down, you will find that most dates will have two sections associa
 ## 3 April 2018
 **PROCEDURAL NOTES AND AGENDA**
 
-- Case: Orlando International Airport: Landing International Airline Business
-
+- Case: AirAsia X: Can the Low Cost Model Go Long Haul?
+- Questions for discussion:
+    - What is the general environment in the global airline industry?
+    - How did AirAsia expand into Southeast Asia?
+    - What changed in the original business model as it contemplated long-haul, low-cost?
+    - What do you think the future holds for long-haul, low-cost given very thin margins associated with the industry?
 
 **CLASS NOTES**
 
@@ -479,6 +483,6 @@ As you scroll down, you will find that most dates will have two sections associa
 
 **PROCEDURAL NOTES AND AGENDA**
 
-- Case: AirAsia X: Can the Low Cost Model Go Long Haul?
+- Case: Orlando International Airport: Landing International Airline Business
 
 **CLASS NOTES**
