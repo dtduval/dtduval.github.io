@@ -476,13 +476,3 @@ As you scroll down, you will find that most dates will have two sections associa
     - What do you think the future holds for long-haul, low-cost given very thin margins associated with the industry?
 
 **CLASS NOTES**
-
-
----------------------------------------------
-## OVERFLOW CLASS (3 April 2018 from 18:00 to 20:00 in Centennial Hall: 4C60)
-
-**PROCEDURAL NOTES AND AGENDA**
-
-- Case: Orlando International Airport: Landing International Airline Business
-
-**CLASS NOTES**
