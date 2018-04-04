@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily Notes
+title: DAILY NOTES FOR DAVID'S COURSES
 permalink: /Daily-Notes-BUS-4220/
 permalink: /Daily-notes-BUS-4900/
 ---
