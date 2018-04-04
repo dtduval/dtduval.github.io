@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Daily Notes
-permalink: /Daily-Notes/
+permalink: /Daily-Notes-BUS-4220/
+permalink: /Daily-notes-BUS-4900/
 ---
 
 Last update: this is a test
